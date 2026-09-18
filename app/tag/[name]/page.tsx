@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { Metadata } from 'next';
 import Shell from "@/components/Shell";
 import PostGrid from "@/components/PostGrid";
 import Footer from "@/components/Footer";
@@ -10,6 +11,26 @@ interface PageProps {
 
 export function generateStaticParams() {
   return getAllTags().map((t) => ({ name: encodeURIComponent(t.name) }));
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { name } = await params;
+  const tag = decodeURIComponent(name);
+  const posts = getPostsByTag(tag);
+
+  return {
+    title: `#${tag} 标签文章合集 — OUTSIDEWEB 墙外有网`,
+    description: `浏览所有标记为「${tag}」的文章，共 ${posts.length} 篇。涵盖机场评测、科技资讯、AI 应用、远程工作等优质内容。`,
+    openGraph: {
+      title: `#${tag} 标签文章合集`,
+      description: `浏览所有标记为「${tag}」的文章，共 ${posts.length} 篇精选内容。`,
+      type: 'website',
+      url: `https://outsideweb.net/tag/${encodeURIComponent(tag)}`,
+    },
+    alternates: {
+      canonical: `https://outsideweb.net/tag/${encodeURIComponent(tag)}`,
+    },
+  };
 }
 
 export default async function TagPage({ params }: PageProps) {
