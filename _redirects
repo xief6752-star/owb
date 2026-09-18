@@ -1,0 +1,7 @@
+# Redirect all routes to their trailing slash version
+/about /about/ 301
+/rankings /rankings/ 301
+/standards /standards/ 301
+
+# SPA fallback for 404
+/* /404.html 404
