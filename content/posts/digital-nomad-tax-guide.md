@@ -5,7 +5,7 @@ date: "2025-02-18"
 category: "数字游民"
 tags: ["税务", "数字游民", "合规"]
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop"
-excerpt: "数字游民如何合法纳税？在哪里交税？如何避免双重征税？这篇完整指南解答所有税务问题，帮你合规节税。"
+excerpt: "数字游民如何合法纳税？本文从税务居民身份、收入来源、常见居住地和双重征税风险出发，梳理规划思路；具体申报应以当地专业意见为准。"
 author: "OutsideWeb"
 ---
 
@@ -356,5 +356,5 @@ author: "OutsideWeb"
 
 **相关阅读：**
 - [葡萄牙 D7 签证指南](/post/portugal-d7-visa-guide)
-- [数字游民签证对比](/post/digital-nomad-visa-comparison)
-- [香港公司注册指南](/post/hong-kong-company-setup)
+- [葡萄牙 D7 签证申请指南](/post/portugal-d7-visa-guide)
+- [清迈数字游民生活指南](/post/chiang-mai-digital-nomad-guide)

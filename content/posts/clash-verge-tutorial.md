@@ -1,12 +1,12 @@
 ---
-title: "Clash Verge Rev 完整配置教程：Windows 最主流的科学上网客户端"
+title: "Clash Verge Rev配置教程"
 titleEn: "Clash Verge Rev Setup Guide"
 date: "2026-09-05"
 category: "使用教程"
 tags: ["教程", "Clash", "Windows", "客户端"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
-excerpt: "从下载安装到订阅导入，手把手教你配置 Clash Verge Rev。附真实操作截图和常见问题解决方案，新手也能 10 分钟上手。"
+excerpt: "从下载安装到订阅导入，本文手把手配置 Clash Verge Rev，覆盖代理模式、系统代理、规则设置和常见故障排查，Windows 新手也能快速上手。"
 ---
 
 Clash Verge Rev 是目前 Windows 平台最主流的科学上网客户端之一，基于 Clash 核心开发，支持规则分流、多种协议，界面简洁易用。这篇教程从零开始，手把手教你配置。

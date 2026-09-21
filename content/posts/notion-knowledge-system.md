@@ -6,7 +6,7 @@ category: "工具评测"
 tags: ["生产力", "知识管理", "工具"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=80"
-excerpt: "从数据库设计到自动化工作流，教你用 Notion 搭建一套可持续运转的第二大脑。"
+excerpt: "从数据库设计、标签体系到自动化工作流，本文带你用 Notion 搭建一套可持续维护的个人知识系统，适合需要整理项目、读书和工作资料的人。"
 ---
 
 Notion 不只是笔记工具，更是一个灵活的知识管理平台。这套架构我已用两年。

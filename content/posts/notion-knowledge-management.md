@@ -1,11 +1,11 @@
 ---
-title: "Notion 知识管理完全指南 — 从零开始搭建个人知识库"
+title: "Notion知识管理搭建指南"
 titleEn: "Complete Notion Knowledge Management Guide"
 date: "2025-06-12"
 category: "工具评测"
 tags: ["Notion", "知识管理", "生产力"]
 image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
-excerpt: "Notion 如何用来做知识管理？这篇完整教程教你从零搭建个人知识库，包含模板、工作流和 10 个实用技巧。"
+excerpt: "Notion 如何做知识管理？本文从页面结构、数据库、标签体系和工作流开始，教你搭建可持续维护的个人知识库，并提供实用模板思路。"
 author: "OutsideWeb"
 ---
 
@@ -335,6 +335,6 @@ prop("已完成任务") / prop("总任务数") * 100
 ---
 
 **相关阅读：**
-- [远程工作必备工具推荐](/post/remote-work-tools)
-- [Obsidian vs Notion 对比](/post/obsidian-vs-notion)
-- [个人知识管理系统搭建](/post/pkm-system)
+- [远程工作必备工具推荐](/post/remote-work-tools-2025)
+- [用 Notion 搭建个人知识管理系统](/post/notion-knowledge-system)
+- [清迈数字游民生活指南](/post/chiang-mai-digital-nomad-guide)

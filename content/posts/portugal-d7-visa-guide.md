@@ -321,6 +321,6 @@ author: "OutsideWeb"
 ---
 
 **相关阅读：**
-- [数字游民签证对比](/post/digital-nomad-visa-comparison)
-- [葡萄牙生活指南](/post/portugal-living-guide)
-- [里斯本数字游民指南](/post/lisbon-digital-nomad)
+- [葡萄牙 D7 签证申请全流程攻略](/post/portugal-d7-visa)
+- [清迈数字游民生活指南](/post/chiang-mai-digital-nomad-guide)
+- [数字游民税务指南](/post/digital-nomad-tax-guide)

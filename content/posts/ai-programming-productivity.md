@@ -1,11 +1,11 @@
 ---
-title: "程序员如何利用 AI 提升效率 10 倍 — 完整工作流指南"
+title: "AI 编程效率提升指南：程序员工作流"
 titleEn: "How Programmers Can 10x Productivity with AI"
 date: "2025-04-10"
 category: "AI 应用"
 tags: ["编程", "AI", "效率"]
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
-excerpt: "AI 如何改变程序员的工作方式？从代码补全到架构设计，这篇文章分享一套完整的 AI 辅助编程工作流，帮你效率提升 10 倍。"
+excerpt: "AI 如何改变程序员的工作方式？本文从代码补全、方案设计、调试测试到代码审查，整理一套可落地的 AI 辅助编程工作流，帮助你提升开发效率。"
 author: "OutsideWeb"
 ---
 
@@ -438,5 +438,5 @@ ORDER BY total_amount DESC;
 
 **相关阅读：**
 - [Cursor vs GitHub Copilot 对比](/post/copilot-vs-cursor-vs-codeium)
-- [AI 提示词工程](/post/prompt-engineering-guide)
-- [如何用 AI 学习编程](/post/learn-coding-with-ai)
+- [AI 辅助编程工作流](/post/ai-programming-productivity)
+- [GitHub Copilot、Cursor 与 Codeium 对比](/post/copilot-vs-cursor-vs-codeium)

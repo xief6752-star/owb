@@ -304,7 +304,7 @@ author: "OutsideWeb"
 - **延迟：** 55-88ms
 - **线路：** CN2 GIA 中转
 
-👉 [查看寰宇云详细评测](/post/airport-review-huanyuyun)
+👉 [查看寰宇云详细评测](/post/airport-review-huanyu)
 
 👉 [查看完整排行榜](/rankings)
 

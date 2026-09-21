@@ -231,6 +231,6 @@ author: "OutsideWeb"
 ---
 
 **相关阅读：**
-- [AI Agent 开发入门](/post/ai-agent-tutorial)
-- [Apple Vision Pro 深度体验](/post/vision-pro-review)
-- [Web3 基础设施现状](/post/web3-infrastructure)
+- [AI 编程效率提升指南](/post/ai-programming-productivity)
+- [ChatGPT、Claude、Gemini 对比指南](/post/chatgpt-vs-claude-vs-gemini)
+- [Web3 钱包安全指南](/post/web3-wallet-security-guide)

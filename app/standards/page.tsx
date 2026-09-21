@@ -1,13 +1,14 @@
 import Shell from "@/components/Shell";
 import Footer from "@/components/Footer";
+import Link from "next/link";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "机场收录标准 — 严格筛选，只推荐优质机场",
+  title: "机场收录标准与评测方法",
   description: "OUTSIDEWEB 机场收录标准：至少运营 6 个月、90 天在线率 98%+、实测速度 300Mbps+、无跑路历史。投稿邮箱：flybors@proton.me",
   openGraph: {
-    title: "机场收录标准 — 严格筛选，只推荐优质机场",
-    description: "了解我们如何筛选和评测机场，以及如何提交你的机场进行评测。",
+    title: "机场收录标准与评测方法",
+    description: "了解 OUTSIDEWEB 如何筛选机场、测试速度与稳定性、处理商业合作，并提交机场进行独立评测。",
     type: 'website',
     url: 'https://outsideweb.net/standards',
   },
@@ -133,10 +134,10 @@ export default function StandardsPage() {
                   <div>
                     <div className="text-[15px] font-medium text-ink">投稿邮箱</div>
                     <a
-                      href="mailto:flybors@pronton.me"
+                      href="mailto:flybors@proton.me"
                       className="text-[16px] font-medium text-accent hover:underline"
                     >
-                      flybors@pronton.me
+                      flybors@proton.me
                     </a>
                   </div>
                 </div>
@@ -216,15 +217,15 @@ export default function StandardsPage() {
                 <div className="space-y-3 text-[13px]">
                   <div className="flex items-center gap-3">
                     <span className="text-faint">邮箱：</span>
-                    <a href="mailto:flybors@pronton.me" className="font-medium text-accent hover:underline">
-                      flybors@pronton.me
+                    <a href="mailto:flybors@proton.me" className="font-medium text-accent hover:underline">
+                      flybors@proton.me
                     </a>
                   </div>
                   <div className="flex items-center gap-3">
                     <span className="text-faint">主页：</span>
-                    <a href="/" className="font-medium text-accent hover:underline">
+                    <Link href="/" className="font-medium text-accent hover:underline">
                       outsideweb.net
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

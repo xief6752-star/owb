@@ -5,7 +5,7 @@ date: "2025-05-25"
 category: "工具评测"
 tags: ["远程工作", "工具", "生产力"]
 image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
-excerpt: "远程工作需要哪些工具？这篇文章推荐 20+ 个必备工具，涵盖沟通、协作、项目管理、时间管理等场景，打造高效的远程工作环境。"
+excerpt: "远程工作需要哪些工具？本文推荐 20 多款沟通、协作、项目管理和时间管理工具，并按团队规模与使用场景整理组合方案，帮助你搭建高效工作环境。"
 author: "OutsideWeb"
 ---
 
@@ -463,6 +463,6 @@ author: "OutsideWeb"
 ---
 
 **相关阅读：**
-- [远程工作最佳实践](/post/remote-work-best-practices)
-- [如何打造高效的远程团队](/post/remote-team-management)
-- [数字游民必备工具](/post/digital-nomad-tools)
+- [AI 编程效率提升指南](/post/ai-programming-productivity)
+- [清迈数字游民生活指南](/post/chiang-mai-digital-nomad-guide)
+- [数字游民的一天：在清迈远程工作](/post/digital-nomad-chiang-mai)

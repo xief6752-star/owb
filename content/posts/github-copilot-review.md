@@ -6,7 +6,7 @@ category: "AI 应用"
 tags: ["AI", "编程工具", "效率"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200&q=80"
-excerpt: "作为前端开发者，使用 Copilot 半年后，效率到底提升了多少？它真的值得订阅吗？"
+excerpt: "作为前端开发者，使用 GitHub Copilot 半年后，代码补全、重构和调试效率提升了多少？本文结合真实工作流，分析它是否值得订阅。"
 ---
 
 用了半年 GitHub Copilot，分享一些没有滤镜的真实感受。

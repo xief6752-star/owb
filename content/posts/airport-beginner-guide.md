@@ -1,11 +1,11 @@
 ---
-title: "2026 新手机场选购指南 — 从零开始选择适合你的机场"
+title: "2026机场选购指南：新手避坑攻略"
 titleEn: "Airport Selection Guide for Beginners 2026"
 date: "2026-09-16"
 category: "机场评测"
 tags: ["新手指南", "机场", "选购"]
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
-excerpt: "第一次选择机场？不知道 IEPL、IPLC、SS 是什么？这篇完整指南教你从零开始选择最适合你的机场服务，避开新手常见的 5 大坑。"
+excerpt: "第一次选择机场，不知道 IEPL、IPLC、SS 有什么区别？本文从预算、线路、速度、稳定性和跑路风险出发，帮助新手选到适合自己的机场服务。"
 author: "OutsideWeb"
 ---
 
@@ -163,7 +163,7 @@ author: "OutsideWeb"
 - **缺点：** 速度中等
 - **适合：** 轻度使用的新手
 
-👉 [查看寰宇云详细评测](/post/airport-review-huanyuyun)
+👉 [查看寰宇云详细评测](/post/airport-review-huanyu)
 
 👉 [查看完整排行榜](/rankings)
 
@@ -213,9 +213,9 @@ author: "OutsideWeb"
 选好机场后，你需要：
 
 1. 📱 **下载客户端** → [查看各平台配置教程](/post/airport-setup-guide)
-2. 🚀 **导入订阅链接** → [订阅链接使用教程](/post/subscription-guide)
+2. 🚀 **导入订阅链接** → [机场配置教程](/post/airport-setup-guide)
 3. 🧪 **测试速度** → [如何测试机场速度](/post/speed-test-guide)
-4. 🎯 **优化使用** → [机场使用技巧](/post/airport-tips)
+4. 🎯 **优化使用** → [机场测速与优化教程](/post/speed-test-guide)
 
 ---
 
@@ -229,7 +229,7 @@ author: "OutsideWeb"
 4. ✅ **看稳定性** — 98% 在线率
 5. ✅ **看客服** — 响应速度快
 
-推荐新手首选：[云图机场](/post/airport-review-yuntu)、[瞬云](/post/airport-review-shunyun)、[寰宇云](/post/airport-review-huanyuyun)
+推荐新手参考：[云图机场](/post/airport-review-yuntu)、[瞬云](/post/airport-review-shunyun)、[寰宇云](/post/airport-review-huanyu)
 
 ---
 

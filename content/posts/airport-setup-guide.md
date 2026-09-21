@@ -1,11 +1,11 @@
 ---
-title: "机场配置教程 — iOS / Android / Windows / Mac 全平台完整指南"
+title: "机场配置教程：iOS到Mac全平台指南"
 titleEn: "Complete Airport Setup Guide for All Platforms"
 date: "2026-09-16"
 category: "工具评测"
 tags: ["教程", "配置", "机场"]
 image: "https://images.unsplash.com/photo-1484807352052-23338990c6c6?w=1200&h=630&fit=crop"
-excerpt: "购买机场后不知道怎么配置？这篇完整教程覆盖 iOS、Android、Windows、Mac 四大平台，5 分钟教会你从下载客户端到成功连接的全部步骤。"
+excerpt: "购买机场后不知道如何配置？本文覆盖 iOS、Android、Windows 和 Mac，从下载客户端、导入订阅到测试连接，按步骤完成基础设置。"
 author: "OutsideWeb"
 ---
 
@@ -293,9 +293,9 @@ author: "OutsideWeb"
 配置完成后，你可能还需要：
 
 1. 🧪 [如何测试机场速度](/post/speed-test-guide)
-2. 🎯 [机场使用技巧与优化](/post/airport-tips)
-3. 🚨 [常见问题与故障排查](/post/troubleshooting)
-4. 📊 [如何选择最快的节点](/post/node-selection-guide)
+2. 🎯 [机场测速与优化](/post/speed-test-guide)
+3. 🚨 [Clash Verge 常见问题排查](/post/clash-verge-tutorial)
+4. 📊 [机场选购与线路选择](/post/airport-beginner-guide)
 
 ---
 

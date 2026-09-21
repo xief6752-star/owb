@@ -424,6 +424,6 @@ Web3 钱包安全是加密货币用户最关心的问题。每年因钱包被盗
 ---
 
 **相关阅读：**
-- [MetaMask 使用教程](/post/metamask-tutorial)
-- [DeFi 安全指南](/post/defi-security-guide)
-- [如何识别 Web3 骗局](/post/web3-scam-detection)
+- [加密货币钱包安全指南](/post/crypto-wallet-security)
+- [加密货币钱包安全指南](/post/crypto-wallet-security)
+- [VPN、机场与 Tor 对比指南](/post/vpn-vs-airport-vs-tor)

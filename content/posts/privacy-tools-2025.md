@@ -5,7 +5,7 @@ date: "2025-04-22"
 category: "隐私安全"
 tags: ["隐私", "安全", "工具"]
 image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
-excerpt: "在数字时代如何保护隐私？这篇文章推荐 15 个必备的隐私保护工具，涵盖浏览器、搜索引擎、邮箱、聊天、支付等场景。"
+excerpt: "如何保护数字隐私？本文推荐 15 个隐私工具，覆盖浏览器、搜索引擎、邮箱、即时通信和支付场景，并说明各工具的适用人群与主要取舍。"
 author: "OutsideWeb"
 ---
 
@@ -293,5 +293,5 @@ author: "OutsideWeb"
 
 **相关阅读：**
 - [加密货币钱包安全指南](/post/crypto-wallet-security)
-- [如何匿名上网](/post/anonymous-browsing)
-- [数据泄露后如何应对](/post/data-breach-response)
+- [VPN、机场与 Tor 对比指南](/post/vpn-vs-airport-vs-tor)
+- [Web3 钱包安全指南](/post/web3-wallet-security-guide)

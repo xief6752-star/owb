@@ -19,6 +19,22 @@ function absoluteUrl(value: string): string {
   return value.startsWith("http") ? value : `https://outsideweb.net${value}`;
 }
 
+function getSeoDescription(post: Awaited<ReturnType<typeof getPostData>> extends infer T
+  ? Exclude<T, null>
+  : never): string {
+  const excerpt = post.excerpt.replace(/\s+/g, ' ').trim();
+  if (excerpt.length >= 100) return excerpt.slice(0, 160);
+
+  const body = post.content
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/[#>*_`[\]]/g, ' ')
+    .replace(/\]\([^)]*\)/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return `${excerpt} ${body}`.trim().slice(0, 160);
+}
+
 export async function generateMetadata({ params }: PostPageProps): Promise<Metadata> {
   const { slug } = await params;
   const post = await getPostData(slug);
@@ -29,14 +45,16 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     };
   }
 
+  const description = getSeoDescription(post);
+
   return {
     title: post.title,
-    description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
+    description,
     keywords: [post.category, ...post.tags],
     authors: [{ name: post.author || 'OutsideWeb' }],
     openGraph: {
       title: post.title,
-      description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
+      description,
       type: 'article',
       publishedTime: post.date,
       authors: [post.author || 'OutsideWeb'],
@@ -54,7 +72,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     twitter: {
       card: 'summary_large_image',
       title: post.title,
-      description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
+      description,
       images: post.image ? [absoluteUrl(post.image)] : ['/images/yuntu-logo.png'],
     },
     alternates: {
@@ -77,7 +95,7 @@ export default async function PostPage({ params }: PostPageProps) {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
-    description: post.excerpt,
+    description: getSeoDescription(post),
     image: absoluteUrl(post.image || '/images/yuntu-logo.png'),
     datePublished: post.date,
     dateModified: post.date,

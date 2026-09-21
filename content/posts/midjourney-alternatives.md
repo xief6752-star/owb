@@ -1,12 +1,12 @@
 ---
-title: "Midjourney 替代品：5 个值得尝试的 AI 绘画工具"
+title: "Midjourney替代工具推荐"
 titleEn: "5 Midjourney Alternatives Worth Trying"
 date: "2024-09-08"
 category: "AI 应用"
 tags: ["AI", "创意工具", "设计"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=1200&q=80"
-excerpt: "Midjourney 涨价后，这些 AI 绘画工具同样能产出出色作品，而且更经济实惠。"
+excerpt: "不想继续使用 Midjourney？本文整理 5 个值得尝试的 AI 绘画工具，从生成质量、易用性、版权、价格和适用场景几个方面进行比较。"
 ---
 
 Midjourney 订阅涨价后，越来越多人寻找替代方案。这里推荐五个各有特点的工具。

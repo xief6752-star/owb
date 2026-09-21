@@ -344,6 +344,6 @@ author: "OutsideWeb"
 ---
 
 **相关阅读：**
-- [数字游民必备工具推荐](/post/digital-nomad-tools)
-- [远程工作签证对比](/post/remote-work-visa-comparison)
-- [东南亚数字游民城市对比](/post/southeast-asia-digital-nomad)
+- [远程工作必备工具推荐](/post/remote-work-tools-2025)
+- [葡萄牙 D7 签证申请指南](/post/portugal-d7-visa-guide)
+- [数字游民的一天：在清迈远程工作](/post/digital-nomad-chiang-mai)

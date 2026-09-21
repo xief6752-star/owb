@@ -19,11 +19,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const posts = getPostsByTag(tag);
 
   return {
-    title: `#${tag} 标签文章合集 — OUTSIDEWEB 墙外有网`,
-    description: `浏览所有标记为「${tag}」的文章，共 ${posts.length} 篇。涵盖机场评测、科技资讯、AI 应用、远程工作等优质内容。`,
+    title: `${tag}相关文章合集`,
+    description: `浏览 OUTSIDEWEB 精选的「${tag}」相关文章，共 ${posts.length} 篇，覆盖机场评测、科技工具、AI 应用与数字生活等实用内容。`,
     openGraph: {
-      title: `#${tag} 标签文章合集`,
-      description: `浏览所有标记为「${tag}」的文章，共 ${posts.length} 篇精选内容。`,
+      title: `${tag}相关文章合集`,
+      description: `浏览「${tag}」主题下的 ${posts.length} 篇精选文章，快速找到相关评测、教程和实用指南。`,
       type: 'website',
       url: `https://outsideweb.net/tag/${encodeURIComponent(tag)}`,
     },

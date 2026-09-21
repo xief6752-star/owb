@@ -6,7 +6,7 @@ category: "工具评测"
 tags: ["流媒体", "省钱攻略", "工具"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
-excerpt: "不想为 YouTube Premium 付费？这里有多个合法有效的替代方案，让你免广告看视频。"
+excerpt: "不想订阅 YouTube Premium？本文整理多个合法替代方案，比较广告体验、离线播放、音乐功能和价格，帮助你找到适合自己的观看方式。"
 ---
 
 YouTube Premium 在国内订阅不便且偏贵，这里分享几个实用替代方案。

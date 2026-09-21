@@ -1,5 +1,5 @@
 ---
-title: "IEPL vs IPLC vs SS — 三种机场线路完整对比，该选哪个？"
+title: "IEPL、IPLC、SS线路对比指南"
 titleEn: "IEPL vs IPLC vs Shadowsocks Line Comparison"
 date: "2026-09-16"
 category: "机场评测"
@@ -267,7 +267,7 @@ author: "OutsideWeb"
 - **价格：** ¥28-128/月
 - **评价：** 性价比之王，适合预算有限的用户
 
-👉 [查看寰宇云详细评测](/post/airport-review-huanyuyun)
+👉 [查看寰宇云详细评测](/post/airport-review-huanyu)
 
 👉 [查看完整排行榜](/rankings)
 

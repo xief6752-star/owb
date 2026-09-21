@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL('https://outsideweb.net'),
   title: {
-    default: "OUTSIDEWEB — 墙外有网 | 机场推荐·科技资讯·数字生活",
+    default: "OUTSIDEWEB｜机场评测、科技与数字生活",
     template: "%s | OUTSIDEWEB"
   },
   description:
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     locale: 'zh_CN',
     url: 'https://outsideweb.net',
     siteName: 'OUTSIDEWEB — 墙外有网',
-    title: 'OUTSIDEWEB — 墙外有网 | 机场推荐·科技资讯·数字生活',
+    title: 'OUTSIDEWEB｜机场评测、科技与数字生活',
     description: '专业的机场评测与推荐平台，提供最新的科技资讯、跨境工具、AI 应用和数字游民生活方式。',
     images: [
       {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'OUTSIDEWEB — 墙外有网',
+    title: 'OUTSIDEWEB｜机场评测、科技与数字生活',
     description: '专业的机场评测与推荐平台，提供最新的科技资讯、跨境工具和数字生活方式。',
     images: ['/images/yuntu-logo.png'],
   },

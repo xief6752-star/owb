@@ -3,11 +3,11 @@ import Footer from "@/components/Footer";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "2026 机场推荐排行榜 — 12 家顶级机场深度评测",
+  title: "2026机场推荐排行榜",
   description: "基于 90 天真实测试的机场推荐排行榜。云图、瞬云、寰宇云等 12 家顶级机场的速度、稳定性、价格全方位对比。IEPL 专线、流媒体解锁、游戏加速全面评测。",
   openGraph: {
-    title: "2026 机场推荐排行榜 — 12 家顶级机场深度评测",
-    description: "基于 90 天真实测试的机场推荐排行榜。云图、瞬云、寰宇云等顶级机场全面对比。",
+    title: "2026机场推荐排行榜",
+    description: "基于速度、稳定性、价格和线路类型，对 12 家机场进行综合评测，帮助你按预算和使用场景选择合适的服务。",
     type: 'website',
     url: 'https://outsideweb.net/rankings',
   },

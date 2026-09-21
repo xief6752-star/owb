@@ -28,11 +28,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const description = descriptions[category] || `浏览「${category}」分类下的所有文章，共 ${posts.length} 篇优质内容。`;
 
   return {
-    title: `${category} — OUTSIDEWEB 墙外有网`,
+    title: `${category}文章与指南`,
     description,
     keywords: [category, '机场推荐', '科技资讯', '数字生活'],
     openGraph: {
-      title: `${category} — OUTSIDEWEB`,
+      title: `${category}文章与指南`,
       description,
       type: 'website',
       url: `https://outsideweb.net/category/${encodeURIComponent(category)}`,

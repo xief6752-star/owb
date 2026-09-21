@@ -398,6 +398,6 @@ portrait --no glasses, hat
 ---
 
 **相关阅读：**
-- [AI 绘画工具对比 2025](/post/ai-art-tools-comparison)
-- [如何用 AI 提升设计效率](/post/ai-design-productivity)
-- [Stable Diffusion vs Midjourney](/post/sd-vs-midjourney)
+- [Midjourney 替代工具推荐](/post/midjourney-alternatives)
+- [AI 编程效率提升指南](/post/ai-programming-productivity)
+- [AI 助手与创意工具对比](/post/chatgpt-vs-claude-vs-gemini)

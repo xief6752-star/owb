@@ -8,10 +8,10 @@ import { Metadata } from 'next';
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: "分类列表 — 按主题浏览所有文章",
+  title: "文章分类与主题指南",
   description: "浏览 OUTSIDEWEB 的所有文章分类：机场评测、科技前沿、工具评测、AI 应用、远程工作、数字游民、创业观察、隐私安全、Web3 等。",
   openGraph: {
-    title: "分类列表 — 按主题浏览所有文章",
+    title: "文章分类与主题指南",
     description: "浏览所有文章分类：机场评测、科技前沿、AI 应用、数字游民等。",
     type: 'website',
     url: 'https://outsideweb.net/category',

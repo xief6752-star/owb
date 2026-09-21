@@ -19,11 +19,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const posts = getSortedPostsData().filter((p) => p.year === year);
 
   return {
-    title: `${year} 年文章存档 — OUTSIDEWEB 墙外有网`,
-    description: `浏览 ${year} 年发布的所有文章，共 ${posts.length} 篇。包含机场评测、科技资讯、AI 应用、使用教程等精选内容。`,
+    title: `${year}年文章存档`,
+    description: `浏览 OUTSIDEWEB ${year} 年发布的 ${posts.length} 篇文章，内容涵盖机场评测、科技资讯、AI 应用、使用教程和数字生活指南。`,
     openGraph: {
-      title: `${year} 年文章存档 — OUTSIDEWEB`,
-      description: `${year} 年发布的 ${posts.length} 篇精选文章合集。`,
+      title: `${year}年文章存档`,
+      description: `浏览 ${year} 年发布的 ${posts.length} 篇精选文章，按时间回顾站内内容。`,
       type: 'website',
       url: `https://outsideweb.net/year/${year}`,
     },

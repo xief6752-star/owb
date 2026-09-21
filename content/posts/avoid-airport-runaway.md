@@ -245,7 +245,7 @@ author: "OutsideWeb"
 - **特点：** 价格便宜，稳定
 - **价格：** ¥28-128/月
 
-👉 [查看寰宇云详细评测](/post/airport-review-huanyuyun)
+👉 [查看寰宇云详细评测](/post/airport-review-huanyu)
 
 👉 [查看完整排行榜](/rankings)
 
