@@ -28,6 +28,10 @@ export const metadata: Metadata = {
   authors: [{ name: "OutsideWeb Team" }],
   creator: "OutsideWeb",
   publisher: "OutsideWeb",
+  category: "technology",
+  alternates: {
+    canonical: "https://outsideweb.net/",
+  },
   openGraph: {
     type: 'website',
     locale: 'zh_CN',
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     description: '专业的机场评测与推荐平台，提供最新的科技资讯、跨境工具、AI 应用和数字游民生活方式。',
     images: [
       {
-        url: '/og-image.png',
+        url: '/images/yuntu-logo.png',
         width: 1200,
         height: 630,
         alt: 'OUTSIDEWEB — 墙外有网',
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'OUTSIDEWEB — 墙外有网',
     description: '专业的机场评测与推荐平台，提供最新的科技资讯、跨境工具和数字生活方式。',
-    images: ['/og-image.png'],
+    images: ['/images/yuntu-logo.png'],
   },
   robots: {
     index: true,

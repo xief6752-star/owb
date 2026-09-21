@@ -15,6 +15,10 @@ export function generateStaticParams() {
   return getSortedPostsData().map((post) => ({ slug: post.slug }));
 }
 
+function absoluteUrl(value: string): string {
+  return value.startsWith("http") ? value : `https://outsideweb.net${value}`;
+}
+
 export async function generateMetadata({ params }: PostPageProps): Promise<Metadata> {
   const { slug } = await params;
   const post = await getPostData(slug);
@@ -27,31 +31,31 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
 
   return {
     title: post.title,
-    description: post.excerpt || post.content.substring(0, 160),
+    description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
     keywords: [post.category, ...post.tags],
     authors: [{ name: post.author || 'OutsideWeb' }],
     openGraph: {
       title: post.title,
-      description: post.excerpt || post.content.substring(0, 160),
+      description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
       type: 'article',
       publishedTime: post.date,
       authors: [post.author || 'OutsideWeb'],
       tags: post.tags,
       images: post.image ? [
         {
-          url: post.image,
+          url: absoluteUrl(post.image),
           width: 1200,
           height: 630,
           alt: post.title,
         }
-      ] : [],
+      ] : [{ url: '/images/yuntu-logo.png', width: 1200, height: 630, alt: post.title }],
       url: `https://outsideweb.net/post/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
-      description: post.excerpt || post.content.substring(0, 160),
-      images: post.image ? [post.image] : [],
+      description: post.excerpt || post.content.replace(/\s+/g, ' ').trim().substring(0, 160),
+      images: post.image ? [absoluteUrl(post.image)] : ['/images/yuntu-logo.png'],
     },
     alternates: {
       canonical: `https://outsideweb.net/post/${slug}`,
@@ -74,7 +78,7 @@ export default async function PostPage({ params }: PostPageProps) {
     '@type': 'Article',
     headline: post.title,
     description: post.excerpt,
-    image: post.image,
+    image: absoluteUrl(post.image || '/images/yuntu-logo.png'),
     datePublished: post.date,
     dateModified: post.date,
     author: {
@@ -86,7 +90,7 @@ export default async function PostPage({ params }: PostPageProps) {
       name: 'OUTSIDEWEB',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://outsideweb.net/logo.png',
+        url: 'https://outsideweb.net/images/yuntu-logo.png',
       },
     },
     mainEntityOfPage: {

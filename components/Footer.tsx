@@ -21,7 +21,6 @@ export default function Footer() {
               <ul className="mt-4 space-y-2.5 text-[12.5px] font-light text-ink-soft">
                 <li><Link href="/" className="hover:text-accent">首页</Link></li>
                 <li><Link href="/category" className="hover:text-accent">分类</Link></li>
-                <li><Link href="/tag" className="hover:text-accent">标签</Link></li>
                 <li><Link href="/about" className="hover:text-accent">关于</Link></li>
               </ul>
             </div>
@@ -30,7 +29,6 @@ export default function Footer() {
               <ul className="mt-4 space-y-2.5 text-[12.5px] font-light text-ink-soft">
                 <li><a href="https://x.com" target="_blank" rel="noreferrer" className="hover:text-accent">X (Twitter)</a></li>
                 <li><a href="https://youtube.com" target="_blank" rel="noreferrer" className="hover:text-accent">YouTube</a></li>
-                <li><Link href="/rss.xml" className="hover:text-accent">RSS</Link></li>
               </ul>
             </div>
           </div>

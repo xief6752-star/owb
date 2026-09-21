@@ -181,9 +181,36 @@ const rankings: AirportRanking[] = [
   }
 ];
 
+const rankingsJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: '2026 机场推荐排行榜',
+  description: '基于速度、稳定性、价格和线路类型的机场综合评测排名。',
+  url: 'https://outsideweb.net/rankings',
+  itemListElement: rankings.map((airport, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: airport.name,
+    item: {
+      '@type': 'Service',
+      name: `${airport.name}机场`,
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: airport.score,
+        bestRating: 10,
+        ratingCount: 1,
+      },
+    },
+  })),
+};
+
 export default function RankingsPage() {
   return (
     <Shell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(rankingsJsonLd) }}
+      />
       <div className="container mx-auto max-w-[1400px] px-10 py-16">
         {/* Header */}
         <div className="mb-12 text-center">
