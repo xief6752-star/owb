@@ -46,22 +46,34 @@ const rankings: AirportRanking[] = [
   },
   {
     rank: 2,
+    name: "鲲鹏加速",
+    nameEn: "KunPeng",
+    score: 9.7,
+    speed: "450-550 Mbps",
+    stability: "98.8%",
+    price: "¥1-22/月",
+    lineType: "中转优化",
+    highlights: ["1元试用", "12元99GB", "1.0倍率"],
+    affLink: "https://kunpengjiasu.com/#/register?code=tQvtkYsB",
+    badge: "性价比之选"
+  },
+  {
+    rank: 3,
     name: "筋斗云",
     nameEn: "JinDouYun",
-    score: 9.7,
+    score: 9.6,
     speed: "640-700 Mbps",
     stability: "99.7%",
     price: "¥35-168/月",
     lineType: "IEPL 专线",
     highlights: ["2年运营", "32节点", "流媒体全解锁"],
-    affLink: "https://jdy.52kok.cn/#/register?code=wUKiwosG",
-    badge: "性价比之选"
+    affLink: "https://jdy.52kok.cn/#/register?code=wUKiwosG"
   },
   {
-    rank: 3,
+    rank: 4,
     name: "九云",
     nameEn: "JiuYun",
-    score: 9.6,
+    score: 9.5,
     speed: "660-720 Mbps",
     stability: "99.8%",
     price: "¥38-178/月",
@@ -71,10 +83,10 @@ const rankings: AirportRanking[] = [
     badge: "稳定之选"
   },
   {
-    rank: 4,
+    rank: 5,
     name: "瞬云",
     nameEn: "ShunYun",
-    score: 9.5,
+    score: 9.4,
     speed: "580 Mbps",
     stability: "99.5%",
     price: "¥28-138/月",
@@ -83,10 +95,10 @@ const rankings: AirportRanking[] = [
     affLink: "https://ccc.jichang.best/#/register?code=MhKYAnsG"
   },
   {
-    rank: 5,
+    rank: 6,
     name: "云图",
     nameEn: "YunTu",
-    score: 9.4,
+    score: 9.3,
     speed: "850-920 Mbps",
     stability: "99.9%",
     price: "¥58-288/月",
@@ -95,7 +107,7 @@ const rankings: AirportRanking[] = [
     affLink: "https://vip.ytjcok.org/#/register?code=fzZCqRZk"
   },
   {
-    rank: 6,
+    rank: 7,
     name: "山水云",
     nameEn: "ShanShui",
     score: 9.2,
