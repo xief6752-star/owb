@@ -4,10 +4,10 @@ import Link from "next/link";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "机场收录标准与评测方法",
+  title: "机场收录标准与评测方法 — 如何筛选与提交机场",
   description: "OUTSIDEWEB 机场收录标准：至少运营 6 个月、90 天在线率 98%+、实测速度 300Mbps+、无跑路历史。投稿邮箱：flybors@proton.me",
   openGraph: {
-    title: "机场收录标准与评测方法",
+    title: "机场收录标准与评测方法 — 如何筛选与提交机场",
     description: "了解 OUTSIDEWEB 如何筛选机场、测试速度与稳定性、处理商业合作，并提交机场进行独立评测。",
     type: 'website',
     url: 'https://outsideweb.net/standards',

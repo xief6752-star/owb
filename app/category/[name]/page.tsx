@@ -25,14 +25,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     '科技资讯': '全球科技前沿资讯，AI 工具评测，Web3 动态，SaaS 产品推荐，让你紧跟国际科技潮流。',
   };
 
-  const description = descriptions[category] || `浏览「${category}」分类下的所有文章，共 ${posts.length} 篇优质内容。`;
+  const description = descriptions[category] || `浏览 OUTSIDEWEB「${category}」分类下的全部 ${posts.length} 篇文章，涵盖深度评测、实用教程与选购指南，帮你系统了解该主题下的优质内容与最新动态。`;
+  const title = `${category}文章与深度指南 — 精选评测与教程合集`;
 
   return {
-    title: `${category}文章与指南`,
+    title,
     description,
-    keywords: [category, '机场推荐', '科技资讯', '数字生活'],
+    keywords: [category, '机场推荐', '机场评测', '科技资讯', '数字生活'],
     openGraph: {
-      title: `${category}文章与指南`,
+      title,
       description,
       type: 'website',
       url: `https://outsideweb.net/category/${encodeURIComponent(category)}`,

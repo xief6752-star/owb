@@ -18,12 +18,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const tag = decodeURIComponent(name);
   const posts = getPostsByTag(tag);
 
+  const title = `${tag}相关文章合集 — 评测、教程与选购指南`;
+  const description = `汇总 OUTSIDEWEB 关于「${tag}」的 ${posts.length} 篇精选文章，涵盖机场评测、科学上网工具、AI 应用、远程办公与数字游民生活等主题，帮你快速找到相关评测、使用教程与选购建议。`;
+
   return {
-    title: `${tag}相关文章合集`,
-    description: `浏览 OUTSIDEWEB 精选的「${tag}」相关文章，共 ${posts.length} 篇，覆盖机场评测、科技工具、AI 应用与数字生活等实用内容。`,
+    title,
+    description,
+    keywords: [tag, '机场推荐', '机场评测', '科技资讯', '数字生活'],
     openGraph: {
-      title: `${tag}相关文章合集`,
-      description: `浏览「${tag}」主题下的 ${posts.length} 篇精选文章，快速找到相关评测、教程和实用指南。`,
+      title,
+      description,
       type: 'website',
       url: `https://outsideweb.net/tag/${encodeURIComponent(tag)}`,
     },

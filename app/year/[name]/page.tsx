@@ -18,12 +18,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const year = decodeURIComponent(name);
   const posts = getSortedPostsData().filter((p) => p.year === year);
 
+  const title = `${year} 年文章存档 — 机场评测与科技内容全记录`;
+  const description = `浏览 OUTSIDEWEB 在 ${year} 年发布的 ${posts.length} 篇文章，内容涵盖机场速度评测、IEPL/IPLC 专线对比、科学上网教程、AI 工具、远程办公与数字游民生活指南，按时间线完整回顾这一年的站内内容。`;
+
   return {
-    title: `${year}年文章存档`,
-    description: `浏览 OUTSIDEWEB ${year} 年发布的 ${posts.length} 篇文章，内容涵盖机场评测、科技资讯、AI 应用、使用教程和数字生活指南。`,
+    title,
+    description,
+    keywords: [`${year}机场推荐`, '机场评测', '科技资讯', '数字生活', '文章存档'],
     openGraph: {
-      title: `${year}年文章存档`,
-      description: `浏览 ${year} 年发布的 ${posts.length} 篇精选文章，按时间回顾站内内容。`,
+      title,
+      description,
       type: 'website',
       url: `https://outsideweb.net/year/${year}`,
     },

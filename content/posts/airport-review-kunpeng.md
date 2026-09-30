@@ -1,10 +1,10 @@
 ---
-title: "鲲鹏加速深度评测 2026：1元试用/12元99GB，全站1.0倍率高性价比机场"
+title: "鲲鹏加速深度评测 2026：1元/1g套餐，全站1.0倍率高性价比机场"
 titleEn: "Kunpeng VPN Review 2026"
 date: "2026-09-22"
 category: "机场评测"
 tags: ["鲲鹏加速", "评测", "性价比", "1元试用"]
-image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
+image: "https://img-s1.fastboostcdn.com/2026/09/26/5a34dace2ce21231030cbbede9b83a05.md.png"
 excerpt: "鲲鹏加速 2026 年深度评测：1元尝鲜体验套餐极低试错成本，12元/月99GB主力套餐每天仅4毛钱，全站1.0倍率无暗扣无文字游戏，支持 ChatGPT、Netflix、TikTok 等主流平台解锁。"
 author: "OutsideWeb"
 ---

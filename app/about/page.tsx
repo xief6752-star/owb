@@ -3,10 +3,10 @@ import Footer from "@/components/Footer";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "关于 OUTSIDEWEB",
+  title: "关于我们 — 独立的机场评测与科技内容平台",
   description: "OUTSIDEWEB 是一个专注于机场评测、科技资讯和数字生活方式的独立内容平台。我们通过真实测试和深度评测，帮助用户选择最优质的服务。",
   openGraph: {
-    title: "关于 OUTSIDEWEB",
+    title: "关于我们 — 独立的机场评测与科技内容平台",
     description: "了解 OUTSIDEWEB 的内容方向、机场评测方法与团队理念，获取跨境工具、科技资讯和数字生活方式内容。",
     type: 'website',
     url: 'https://outsideweb.net/about',

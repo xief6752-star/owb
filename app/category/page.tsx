@@ -8,11 +8,11 @@ import { Metadata } from 'next';
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: "文章分类与主题指南",
-  description: "浏览 OUTSIDEWEB 的所有文章分类：机场评测、科技前沿、工具评测、AI 应用、远程工作、数字游民、创业观察、隐私安全、Web3 等。",
+  title: "文章分类与主题导航 — 机场评测、科技与数字生活",
+  description: "浏览 OUTSIDEWEB 的所有文章分类：机场评测、科技前沿、工具评测、AI 应用、远程工作、数字游民、创业观察、隐私安全、Web3 等，按主题快速找到你需要的深度内容。",
   openGraph: {
-    title: "文章分类与主题指南",
-    description: "浏览所有文章分类：机场评测、科技前沿、AI 应用、数字游民等。",
+    title: "文章分类与主题导航 — 机场评测、科技与数字生活",
+    description: "浏览 OUTSIDEWEB 所有文章分类：机场评测、科技前沿、工具评测、AI 应用、数字游民等，按主题快速定位深度内容。",
     type: 'website',
     url: 'https://outsideweb.net/category',
   },
