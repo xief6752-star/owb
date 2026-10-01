@@ -92,7 +92,7 @@ const rankings: AirportRanking[] = [
     price: "¥28-138/月",
     lineType: "混合专线",
     highlights: ["智能切换", "30节点", "入门友好"],
-    affLink: "https://ccc.jichang.best/#/register?code=MhKYAnsG"
+    affLink: "https://ddd.jichang.best/#/register?code=MhKYAnsG"
   },
   {
     rank: 6,

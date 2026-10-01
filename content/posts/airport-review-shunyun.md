@@ -61,7 +61,7 @@ excerpt: "瞬云采用中转 + 专线混合架构，价格实惠且速度表现�
 | 专业版 | ¥68 /月 | 500GB | 8 个 |
 | 旗舰版 | ¥138 /月 | 不限流量 | 10 个 |
 
-**官方注册**：[https://ccc.jichang.best/#/register?code=MhKYAnsG](https://ccc.jichang.best/#/register?code=MhKYAnsG)
+**官方注册**：[https://ddd.jichang.best/#/register?code=MhKYAnsG](https://ddd.jichang.best/#/register?code=MhKYAnsG)
 
 季付和年付有 85-9 折优惠，长期用户推荐标准版年付，折算月均约 ¥34。
 
