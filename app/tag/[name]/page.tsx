@@ -10,7 +10,7 @@ interface PageProps {
 }
 
 export function generateStaticParams() {
-  return getAllTags().map((t) => ({ name: encodeURIComponent(t.name) }));
+  return getAllTags().map((t) => ({ name: t.name }));
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
