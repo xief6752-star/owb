@@ -79,7 +79,7 @@ excerpt: "云图机场采用全 IEPL 专线架构，多运营商接入，节点�
 | 专业版 | ¥158 /月 | 1200GB | 不限 |
 | 旗舰版 | ¥288 /月 | 3000GB | 不限 |
 
-**官网注册**：[云图机场官网](https://vip.ytjcok.org/#/register?code=fzZCqRZk)
+**官网注册**：[云图机场官网](https://super.ytjcok.org/#/register?code=iV8ahCNE)
 
 **不限在线设备数**是一大亮点——你可以在手机、电脑、iPad、路由器、游戏主机等多设备同时在线，不用反复切换登录。
 

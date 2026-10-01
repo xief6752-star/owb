@@ -104,7 +104,7 @@ const rankings: AirportRanking[] = [
     price: "¥58-288/月",
     lineType: "全 IEPL 专线",
     highlights: ["12ms延迟", "50+节点", "四网优化"],
-    affLink: "https://vip.ytjcok.org/#/register?code=fzZCqRZk"
+    affLink: "https://super.ytjcok.org/#/register?code=iV8ahCNE"
   },
   {
     rank: 7,
