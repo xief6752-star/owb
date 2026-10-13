@@ -234,8 +234,18 @@ keywords: ["机场推荐", "科学上网", "翻墙", "VPN", "IEPL", "IPLC", "机
 
 ---
 
-**相关阅读：**
-- [2026 机场推荐排行榜](/rankings)
-- [IEPL vs IPLC vs SS：专线对比](/post/line-comparison)
-- [机场配置教程（全平台）](/post/airport-setup-guide)
-- [如何避免机场跑路](/post/avoid-airport-runaway)
+## 相关阅读
+
+### 📋 机场推荐
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [云图机场评测](/post/airport-review-yuntu-2026) - 高性价比 IEPL 专线推荐
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选的低延迟专线
+- [瞬云机场评测](/post/airport-review-shunyun-2026) - 新锐创新型流媒体专线
+
+### 📖 使用教程
+- [Clash 完整使用教程](/post/clash-complete-tutorial-2026) - 全平台配置指南
+- [机场配置教程](/post/airport-setup-guide) - 多客户端配置方法
+
+### 🔧 技术科普
+- [IEPL vs IPLC 专线对比](/post/airport-iplc-vs-iepl) - 了解线路类型和选择
+- [如何避免机场跑路](/post/avoid-airport-runaway) - 识别风险信号

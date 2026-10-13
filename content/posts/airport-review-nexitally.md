@@ -92,3 +92,20 @@ excerpt: "奶昔机场运营时间较长，采用自研面板与专线网络。�
 - 预算充足、不想反复折腾换机场的用户
 
 最后提醒一句：再信任的机场也建议坚持月付原则，手里保持一家备用机场，这是这个行业里最重要的自我保护习惯。
+
+---
+
+## 相关阅读
+
+### 📋 机场对比评测
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [云图机场评测](/post/airport-review-yuntu-2026) - 高性价比 IEPL 专线推荐
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选的低延迟专线
+- [瞬云机场评测](/post/airport-review-shunyun-2026) - 新锐创新型流媒体专线
+
+### 📖 新手指南
+- [机场选购指南](/post/airport-beginner-guide) - 新手避坑攻略
+- [Clash 完整使用教程](/post/clash-complete-tutorial-2026) - 全平台配置指南
+
+### 🔧 技术科普
+- [IEPL vs IPLC 专线对比](/post/airport-iplc-vs-iepl) - 了解线路类型和选择

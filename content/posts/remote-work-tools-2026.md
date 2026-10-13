@@ -184,7 +184,17 @@ keywords: ["远程工作工具", "数字游民", "在线协作", "生产力", "�
 
 ---
 
-**相关阅读：**
-- [数字游民入门指南：从零开始远程工作](#)
-- [远程工作时间管理技巧](#)
-- [如何选择适合自己的协作工具](#)
+## 相关阅读
+
+### 🤖 AI 工具
+- [ChatGPT vs Claude vs Gemini 深度对比](/post/chatgpt-vs-claude-vs-gemini-2026) - 三大 AI 模型横评
+- [AI 编程效率提升指南](/post/ai-programming-productivity) - 如何用 AI 提升编程效率
+- [Copilot vs Cursor vs Codeium 对比](/post/copilot-vs-cursor-vs-codeium) - AI 编程工具横评
+
+### 🌏 数字游民
+- [清迈数字游民完整指南](/post/chiang-mai-digital-nomad-guide) - 东南亚热门城市
+- [数字游民税务指南](/post/digital-nomad-tax-guide) - 合法降低税负
+- [葡萄牙 D7 签证申请指南](/post/portugal-d7-visa-guide) - 欧洲数字游民签证
+
+### 🔒 隐私安全
+- [网络隐私安全基础指南](/post/privacy-security-basics-2026) - 10 个实用措施

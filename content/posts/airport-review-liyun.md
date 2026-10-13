@@ -95,3 +95,20 @@ excerpt: "鲤云是一家入门级专线机场，价格实惠，线路以 BGP �
 鲤云是一家典型的入门级机场，价格实惠但稳定性一般。如果你预算有限或者只是想试试机场是什么，它是个不错的入门选择。但如果你是重度用户或者对稳定性有要求，建议选择运营时间更长、线路质量更好的机场。
 
 记住：低价机场的跑路风险更高，必须坚持月付原则，不要充值过多。
+
+---
+
+## 相关阅读
+
+### 📋 机场对比评测
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [云图机场评测](/post/airport-review-yuntu-2026) - 高性价比 IEPL 专线推荐
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选的低延迟专线
+- [瞬云机场评测](/post/airport-review-shunyun-2026) - 新锐创新型流媒体专线
+
+### 📖 新手指南
+- [机场选购指南](/post/airport-beginner-guide) - 新手避坑攻略
+- [Clash 完整使用教程](/post/clash-complete-tutorial-2026) - 全平台配置指南
+
+### 🔧 技术科普
+- [IEPL vs IPLC 专线对比](/post/airport-iplc-vs-iepl) - 了解线路类型和选择

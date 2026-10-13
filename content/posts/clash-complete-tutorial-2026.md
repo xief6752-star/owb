@@ -579,10 +579,17 @@ iOS 没有官方 Clash 客户端，需要使用第三方替代品。
 
 ## 相关阅读
 
-- [2026 年最值得推荐的 5 家机场对比](./top5-airports-comparison-2026.md)
-- [云图机场评测](./airport-review-yuntu-2026.md)
-- [鲲鹏加速评测](./airport-review-kunpeng-2026.md)
-- [机场选购指南](./airport-beginner-guide.md)
+### 📋 机场推荐
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [云图机场评测](/post/airport-review-yuntu-2026) - 高性价比 IEPL 专线
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选
+
+### 📖 新手指南
+- [机场选购指南](/post/airport-beginner-guide) - 新手避坑攻略
+
+### 🔧 其他教程
+- [Clash Verge 使用教程](/post/clash-verge-tutorial) - 新一代 Clash 客户端
+- [机场配置通用指南](/post/airport-setup-guide) - 多客户端配置方法
 
 ---
 

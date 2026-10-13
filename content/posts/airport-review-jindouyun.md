@@ -99,3 +99,20 @@ excerpt: "筋斗云运营稳定，采用 IEPL 专线 + BGP 优化，节点质量
 - 手里保持一家备用机场以防万一
 
 筋斗云是一家运营稳定、线路质量优秀的中端机场，适合追求稳定体验的长期用户。虽然价格不是最便宜的，但考虑到它的稳定性和线路质量，性价比还是很高的。
+
+---
+
+## 相关阅读
+
+### 📋 机场对比评测
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [云图机场评测](/post/airport-review-yuntu-2026) - 高性价比 IEPL 专线推荐
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选的低延迟专线
+- [瞬云机场评测](/post/airport-review-shunyun-2026) - 新锐创新型流媒体专线
+
+### 📖 新手指南
+- [机场选购指南](/post/airport-beginner-guide) - 新手避坑攻略
+- [Clash 完整使用教程](/post/clash-complete-tutorial-2026) - 全平台配置指南
+
+### 🔧 技术科普
+- [IEPL vs IPLC 专线对比](/post/airport-iplc-vs-iepl) - 了解线路类型和选择

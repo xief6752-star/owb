@@ -336,10 +336,17 @@ keywords: ["云图机场", "IEPL专线", "机场推荐", "高性价比机场", "
 
 ## 相关阅读
 
-- [鲲鹏加速机场评测：游戏加速首选](#)
-- [瞬云机场评测：新锐专线服务](#)
-- [2026 机场选购指南：新手避坑攻略](./airport-beginner-guide.md)
-- [IPLC vs IEPL：机场专线区别解析](./airport-iplc-vs-iepl.md)
+### 📋 机场对比评测
+- [2026 年最值得推荐的 5 家机场对比](/post/top5-airports-comparison-2026) - 横向对比评测
+- [鲲鹏加速评测](/post/airport-review-kunpeng-2026) - 游戏玩家首选的低延迟专线
+- [瞬云机场评测](/post/airport-review-shunyun-2026) - 新锐创新型流媒体专线
+
+### 📖 新手指南
+- [机场选购指南](/post/airport-beginner-guide) - 新手避坑攻略
+- [Clash 完整使用教程](/post/clash-complete-tutorial-2026) - 全平台配置指南
+
+### 🔧 技术科普
+- [IEPL vs IPLC 专线对比](/post/airport-iplc-vs-iepl) - 了解线路类型和选择
 
 ---
 
