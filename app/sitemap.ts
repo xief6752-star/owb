@@ -8,7 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const categories = getAllCategories();
 
   const baseUrl = 'https://outsideweb.net';
-  const siteLastModified = new Date('2026-09-21');
+  const siteLastModified = new Date('2026-10-13');
 
   // Static pages
   const staticPages = [
