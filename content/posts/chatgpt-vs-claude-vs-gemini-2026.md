@@ -4,7 +4,7 @@ titleEn: "ChatGPT vs Claude vs Gemini: Complete Comparison 2026"
 date: "2026-10-13"
 category: "AI 应用"
 tags: ["ChatGPT", "Claude", "Gemini", "AI对比", "大模型"]
-image: "https://source.unsplash.com/1200x630/?artificial-intelligence,technology"
+image: "https://picsum.photos/seed/ai-technology/1200/630"
 excerpt: "OpenAI、Anthropic、Google 三大 AI 巨头的旗舰模型全面对比。从对话质量到代码能力，从价格到使用场景，帮你选出最适合的 AI 助手。"
 author: "OutsideWeb"
 keywords: ["ChatGPT", "Claude", "Gemini", "AI对比", "大模型评测", "人工智能"]

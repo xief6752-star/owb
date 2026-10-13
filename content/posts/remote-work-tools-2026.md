@@ -4,7 +4,7 @@ titleEn: "Best Remote Work Tools for Digital Nomads in 2026"
 date: "2026-10-12"
 category: "数字游民"
 tags: ["远程工作", "生产力工具", "数字游民", "效率提升"]
-image: "https://source.unsplash.com/1200x630/?remote-work,team-collaboration"
+image: "https://picsum.photos/seed/remote-work/1200/630"
 excerpt: "从沟通协作到项目管理，从时间追踪到文档共享，这份清单整理了 2026 年远程工作者必备的 20+ 款工具，帮助你打造无缝的异地办公体验。"
 author: "OutsideWeb"
 keywords: ["远程工作工具", "数字游民", "在线协作", "生产力", "异地办公"]

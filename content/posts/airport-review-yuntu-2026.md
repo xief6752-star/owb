@@ -4,7 +4,7 @@ titleEn: "YunTu Airport Review: Best Value IEPL Service"
 date: "2026-10-13"
 category: "机场评测"
 tags: ["云图", "机场评测", "IEPL", "专线", "性价比"]
-image: "https://source.unsplash.com/1200x630/?network,technology,cloud"
+image: "https://picsum.photos/seed/cloud-network/1200/630"
 excerpt: "云图机场采用 IEPL 专线 + BGP 中转优化，稳定运营超过 3 年，以高性价比和优质服务在用户中口碑良好。本文从速度、稳定性、流媒体解锁等维度全面评测云图。"
 author: "OutsideWeb"
 keywords: ["云图机场", "IEPL专线", "机场推荐", "高性价比机场", "流媒体解锁", "云图评测"]
