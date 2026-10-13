@@ -4,7 +4,7 @@ titleEn: "Privacy & Security Basics for Everyone in 2026"
 date: "2026-10-13"
 category: "隐私安全"
 tags: ["隐私保护", "网络安全", "数据安全", "加密"]
-image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&h=630&fit=crop"
+image: "https://source.unsplash.com/1200x630/?cybersecurity,privacy"
 excerpt: "不需要成为技术专家，也能保护自己的网络隐私。从密码管理到通信加密，这 10 个实用措施帮助你建立基础的安全防护体系。"
 author: "OutsideWeb"
 keywords: ["网络隐私", "数据安全", "密码管理", "加密通信", "隐私保护"]
