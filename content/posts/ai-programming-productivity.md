@@ -7,6 +7,7 @@ tags: ["编程", "AI", "效率"]
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
 excerpt: "AI 如何改变程序员的工作方式？本文从代码补全、方案设计、调试测试到代码审查，整理一套可落地的 AI 辅助编程工作流，帮助你提升开发效率。"
 author: "OutsideWeb"
+keywords: ["AI编程", "代码补全", "ChatGPT", "Cursor", "GitHub Copilot", "程序员效率", "AI工具"]
 ---
 
 2025 年，AI 已经深刻改变了程序员的工作方式。这篇文章分享如何用 AI 工具打造 10 倍效率的编程工作流。

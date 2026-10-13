@@ -16,7 +16,7 @@ export default function Header() {
       <div className="border-b border-line bg-bg-soft">
         <div className="flex items-center justify-between px-10 py-2">
           <p className="truncate pr-4 text-[11px] font-light text-muted">
-            OUTSIDEWEB 每天精选墙外的优质资讯、跨境工具与数字生活方式
+            打破信息壁垒 · 连接全球视野 · 独立评测 · 真实体验
           </p>
           <div className="flex shrink-0 items-center gap-4 text-[11px]">
             <button

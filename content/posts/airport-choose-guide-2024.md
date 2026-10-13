@@ -4,9 +4,10 @@ titleEn: "Complete Guide to Choosing Airport Services"
 date: "2026-09-09"
 category: "科普百科"
 tags: ["机场", "选购指南", "避坑"]
-author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
 excerpt: "买机场前需要看哪些指标？本文从预算、线路类型、速度测试、退款规则和跑路信号几个方面梳理选购方法，帮助新手减少试错成本。"
+author: "OutsideWeb"
+keywords: ["机场选购", "翻墙避坑", "机场评测", "线路类型", "速度测试", "机场推荐"]
 ---
 
 机场行业一年坑掉新手的钱数不胜数。本文把最常见的坑、最实用的选购逻辑、花多少钱合适，都讲清楚了。
