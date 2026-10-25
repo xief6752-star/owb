@@ -3,8 +3,8 @@ import Footer from "@/components/Footer";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "2026 机场推荐排行榜 — 12 家顶级机场速度实测对比",
-  description: "基于 90 天真实测试的机场推荐排行榜。云图、瞬云、寰宇云等 12 家顶级机场的速度、稳定性、价格全方位对比。IEPL 专线、流媒体解锁、游戏加速全面评测。",
+  title: "2026 机场推荐排行榜 — 13 家顶级机场速度实测对比",
+  description: "基于 90 天真实测试的机场推荐排行榜。云图、xxyun、瞬云等 13 家机场的速度、稳定性、价格全方位对比。IEPL 专线、流媒体解锁、游戏加速全面评测。",
   openGraph: {
     title: "2026 机场推荐排行榜 — 12 家顶级机场速度实测对比",
     description: "基于速度、稳定性、价格和线路类型，对 12 家机场进行综合评测，帮助你按预算和使用场景选择合适的服务。",
@@ -181,6 +181,19 @@ const rankings: AirportRanking[] = [
   },
   {
     rank: 12,
+    name: "xxyun",
+    nameEn: "XXYun",
+    score: 8.7,
+    speed: "640-948 Mbps",
+    stability: "98.0%",
+    price: "¥9.99-39.9/月",
+    lineType: "IEPL + 9929",
+    highlights: ["最低9.99元", "永久套餐", "4K高清"],
+    affLink: "https://www.xxyun.at/?code=bYY4sGMr",
+    badge: "价格之王"
+  },
+  {
+    rank: 13,
     name: "财路云",
     nameEn: "CaiLu",
     score: 7.2,
@@ -233,9 +246,9 @@ export default function RankingsPage() {
             基于真实测试的机场评分排名，包含速度、稳定性、价格等综合指标
           </p>
           <div className="mt-6 flex items-center justify-center gap-4 text-[12px] text-faint">
-            <span>最后更新：2026-09-16</span>
+            <span>最后更新：2026-10-25</span>
             <span>•</span>
-            <span>测试周期：60 天</span>
+            <span>测试周期：90 天</span>
             <span>•</span>
             <span>测试环境：电信/联通/移动 500M</span>
           </div>
