@@ -41,7 +41,7 @@ const rankings: AirportRanking[] = [
     price: "¥45-198/月",
     lineType: "IEPL 专线",
     highlights: ["优质专线", "45节点", "稳定可靠"],
-    affLink: "https://by.example.com/#/register?code=EXAMPLE",
+    affLink: "https://141.11.77.85:8888/#/register?code=089ta958",
     badge: "编辑推荐"
   },
   {
