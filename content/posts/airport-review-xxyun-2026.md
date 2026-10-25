@@ -24,7 +24,7 @@ xxyun 机场是一家运营超过 3 年的老牌高性价比机场，主打 4K �
 | **协议支持** | Shadowsocks、VMess |
 | **支持设备** | Windows、macOS、iOS、Android、路由器 |
 | **付款方式** | 支付宝、微信 |
-| **官网** | https://www.xxyun.at/ |
+| **官网** | https://www.xxyun.at/?code=bYY4sGMr |
 
 ---
 
@@ -193,7 +193,7 @@ xxyun 机场是一家运营超过 3 年的老牌高性价比机场，主打 4K �
 
 ## 九、购买建议
 
-1. **访问官网**：https://www.xxyun.at/
+1. **访问官网**：https://www.xxyun.at/?code=bYY4sGMr
 2. **注册账号**：邮箱注册
 3. **选择套餐**：
    - 月付推荐：中级套餐 ¥19.9/300GB
