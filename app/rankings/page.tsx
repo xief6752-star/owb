@@ -3,11 +3,11 @@ import Footer from "@/components/Footer";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "2026 机场推荐排行榜 — 13 家顶级机场速度实测对比",
-  description: "基于 90 天真实测试的机场推荐排行榜。云图、xxyun、瞬云等 13 家机场的速度、稳定性、价格全方位对比。IEPL 专线、流媒体解锁、游戏加速全面评测。",
+  title: "2026 机场推荐排行榜 — 14 家顶级机场速度实测对比",
+  description: "基于 90 天真实测试的机场推荐排行榜。云图、xxyun、瞬云、网际快车等 14 家机场的速度、稳定性、价格全方位对比。IEPL 专线、流媒体解锁、游戏加速全面评测。",
   openGraph: {
-    title: "2026 机场推荐排行榜 — 12 家顶级机场速度实测对比",
-    description: "基于速度、稳定性、价格和线路类型，对 12 家机场进行综合评测，帮助你按预算和使用场景选择合适的服务。",
+    title: "2026 机场推荐排行榜 — 14 家顶级机场速度实测对比",
+    description: "基于速度、稳定性、价格和线路类型，对 14 家机场进行综合评测，帮助你按预算和使用场景选择合适的服务。",
     type: 'website',
     url: 'https://outsideweb.net/rankings',
   },
@@ -194,6 +194,19 @@ const rankings: AirportRanking[] = [
   },
   {
     rank: 13,
+    name: "网际快车",
+    nameEn: "Wangji Express",
+    score: 8.2,
+    speed: "380-520 Mbps",
+    stability: "待长期观察",
+    price: "¥6.8-368 永久",
+    lineType: "家宽/原生 IP",
+    highlights: ["永久流量包", "SoftBank家宽", "原生IP"],
+    affLink: "https://xlnlrw.xn--66tw07h.com",
+    badge: "家宽IP之选"
+  },
+  {
+    rank: 14,
     name: "财路云",
     nameEn: "CaiLu",
     score: 7.2,
