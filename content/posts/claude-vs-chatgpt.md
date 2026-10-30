@@ -1,12 +1,12 @@
 ---
-title: "Claude 与 ChatGPT 编程能力深度对比"
+title: "Claude vs ChatGPT 编程能力深度对比 2026 — 10 个真实项目实测"
 titleEn: "Claude vs ChatGPT for Coding"
 date: "2024-09-15"
 category: "AI 应用"
 tags: ["AI", "编程工具", "效率"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
-excerpt: "通过 10 个真实项目任务，从代码质量、上下文理解到调试效率，全面对比两大 AI 助手在编程场景下的表现。"
+excerpt: "通过 10 个真实项目任务（React 组件开发、Python 数据处理、API 调试等），从代码质量、上下文理解能力、调试效率、文档生成到长对话表现，全面对比 Claude 与 ChatGPT 两大 AI 助手在编程场景下的实际表现，帮助开发者选择最适合的编程助手。"
 ---
 
 作为每天写代码的开发者，我用两周时间把 Claude 和 ChatGPT 放在同样的项目里对比，想弄清楚它们在真实工作流中的差距。

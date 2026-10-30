@@ -1,12 +1,12 @@
 ---
-title: "Cloudflare Pages vs Vercel对比"
+title: "Cloudflare Pages vs Vercel 深度对比 — 前端部署平台选择指南"
 titleEn: "Cloudflare Pages vs Vercel"
 date: "2024-08-25"
 category: "科技前沿"
 tags: ["部署", "边缘计算", "工具"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
-excerpt: "Cloudflare Pages 和 Vercel 怎么选？本文从部署流程、访问速度、免费额度、域名配置和开发体验几个方面对比，帮助你为项目选择合适的平台。"
+excerpt: "Cloudflare Pages 和 Vercel 怎么选？本文从部署流程（Git 集成）、访问速度（CDN 覆盖）、免费额度（构建时长/带宽）、域名配置、函数支持（Edge Functions vs Serverless）和开发体验等 6 个关键方面深度对比，帮助你为 Next.js、Astro、SvelteKit 等项目选择最合适的前端部署平台。"
 ---
 
 Cloudflare Pages 和 Vercel 都是热门的前端部署平台，但定位有差异。

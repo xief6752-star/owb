@@ -1,11 +1,11 @@
 ---
-title: "iOS 翻墙完整教程 2026：从入门到进阶"
+title: "iOS 翻墙完整教程 2026 — iPhone/iPad 科学上网配置指南（Shadowrocket/Stash）"
 titleEn: "Complete iOS VPN Setup Guide 2026"
 date: "2026-10-13"
 category: "使用教程"
 tags: ["iOS", "iPhone", "翻墙教程", "Shadowrocket", "Stash"]
 image: "https://picsum.photos/seed/ios-vpn-guide/1200/630"
-excerpt: "iOS 翻墙完整教程，涵盖 Shadowrocket、Stash、Quantumult X 等主流客户端的下载、安装、配置全流程。包含美区 Apple ID 注册、购买技巧、故障排查等实用内容。"
+excerpt: "iOS 翻墙完整教程，涵盖 Shadowrocket（小火箭）、Stash、Quantumult X、Surge 等主流客户端的下载、安装、配置全流程。包含美区 Apple ID 注册步骤、App 购买技巧（支付宝代充）、订阅导入方法、节点选择策略、故障排查（无法连接/证书错误）等实用内容，适合 iPhone/iPad 用户从零开始配置科学上网。"
 author: "OutsideWeb"
 keywords: ["iOS翻墙", "iPhone科学上网", "Shadowrocket教程", "美区Apple ID", "iOS VPN", "苹果手机翻墙"]
 ---

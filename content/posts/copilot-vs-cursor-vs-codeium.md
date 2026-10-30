@@ -1,11 +1,11 @@
 ---
-title: "Copilot、Cursor、Codeium对比"
+title: "Copilot vs Cursor vs Codeium 深度对比 2026 — AI 编程助手选择指南"
 titleEn: "GitHub Copilot vs Cursor vs Codeium Comparison"
 date: "2025-08-05"
 category: "AI 应用"
 tags: ["Copilot", "Cursor", "AI编程"]
 image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=630&fit=crop"
-excerpt: "GitHub Copilot、Cursor、Codeium 哪个更好用？本文从代码补全、项目级对话、模型能力、隐私和价格几个方面对比，帮助开发者按工作流选择工具。"
+excerpt: "GitHub Copilot、Cursor、Codeium 哪个更好用？本文从代码补全准确率、项目级对话能力（Cursor 的 Codebase Chat）、模型能力（GPT-4 vs Claude）、隐私保护（是否发送代码到云端）和价格成本（$10 vs $20 vs 免费）等 5 个方面深度对比，帮助开发者按工作流和预算选择最适合的 AI 编程工具。"
 author: "OutsideWeb"
 ---
 

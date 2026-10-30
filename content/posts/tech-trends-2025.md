@@ -1,11 +1,11 @@
 ---
-title: "2025 年最值得关注的 10 个科技趋势"
+title: "2025 年最值得关注的 10 个科技趋势 — 从 AI Agent 到空间计算的商业机会"
 titleEn: "Top 10 Tech Trends to Watch in 2025"
 date: "2025-01-15"
 category: "科技前沿"
 tags: ["科技趋势", "AI", "Web3"]
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
-excerpt: "2025 年科技圈有哪些值得关注的趋势？从 AI Agent 到空间计算，这篇文章盘点 10 个最重要的技术方向和商业机会。"
+excerpt: "2025 年科技圈有哪些值得关注的趋势？从 AI Agent 自主决策、空间计算（Vision Pro）、量子计算商业化到 Web3 基础设施，这篇文章深度盘点 10 个最重要的技术方向和商业机会，帮助开发者、创业者把握技术红利。"
 author: "OutsideWeb"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-10-13"
 category: "AI 应用"
 tags: ["ChatGPT", "Claude", "Gemini", "AI对比", "大模型"]
 image: "https://picsum.photos/seed/ai-technology/1200/630"
-excerpt: "OpenAI、Anthropic、Google 三大 AI 巨头的旗舰模型全面对比。从对话质量到代码能力，从价格到使用场景，帮你选出最适合的 AI 助手。"
+excerpt: "OpenAI、Anthropic、Google 三大 AI 巨头的旗舰模型全面对比。从对话质量、代码能力、推理深度、上下文长度（128K vs 200K）、多模态支持到价格成本，深度评测 ChatGPT-4、Claude 3.5 Sonnet、Gemini 1.5 Pro 在不同使用场景下的表现，帮你按需求选出最适合的 AI 助手。"
 author: "OutsideWeb"
 keywords: ["ChatGPT", "Claude", "Gemini", "AI对比", "大模型评测", "人工智能"]
 ---

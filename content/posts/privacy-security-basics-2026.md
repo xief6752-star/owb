@@ -1,11 +1,11 @@
 ---
-title: "2026 网络隐私安全基础：普通人也能做到的 10 个保护措施"
+title: "2026 网络隐私安全基础指南 — 普通人也能做到的 10 个实用保护措施"
 titleEn: "Privacy & Security Basics for Everyone in 2026"
 date: "2026-10-13"
 category: "隐私安全"
 tags: ["隐私保护", "网络安全", "数据安全", "加密"]
 image: "https://picsum.photos/seed/security/1200/630"
-excerpt: "不需要成为技术专家，也能保护自己的网络隐私。从密码管理到通信加密，这 10 个实用措施帮助你建立基础的安全防护体系。"
+excerpt: "不需要成为技术专家，也能保护自己的网络隐私。从密码管理器使用（1Password/Bitwarden）、双因素认证开启、HTTPS 检查、浏览器隐私模式到通信加密（Signal/Telegram），这 10 个实用措施帮助你建立基础的安全防护体系，保护个人数据不被泄露，适合零基础用户。"
 author: "OutsideWeb"
 keywords: ["网络隐私", "数据安全", "密码管理", "加密通信", "隐私保护"]
 ---

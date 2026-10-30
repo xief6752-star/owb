@@ -1,12 +1,12 @@
 ---
-title: "Midjourney替代工具推荐"
+title: "Midjourney 替代工具推荐 2026 — 5 个值得尝试的 AI 绘画工具对比"
 titleEn: "5 Midjourney Alternatives Worth Trying"
 date: "2024-09-08"
 category: "AI 应用"
 tags: ["AI", "创意工具", "设计"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=1200&q=80"
-excerpt: "不想继续使用 Midjourney？本文整理 5 个值得尝试的 AI 绘画工具，从生成质量、易用性、版权、价格和适用场景几个方面进行比较。"
+excerpt: "不想继续使用 Midjourney？本文整理 Stable Diffusion、DALL·E 3、Firefly、Leonardo.ai、Artbreeder 等 5 个值得尝试的 AI 绘画工具，从生成质量、易用性、版权政策、价格和适用场景（商业/个人）几个方面进行详细比较，帮你找到最合适的替代方案。"
 ---
 
 Midjourney 订阅涨价后，越来越多人寻找替代方案。这里推荐五个各有特点的工具。

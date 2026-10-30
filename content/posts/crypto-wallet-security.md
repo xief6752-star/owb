@@ -1,12 +1,12 @@
 ---
-title: "加密货币钱包安全终极指南"
+title: "加密货币钱包安全终极指南 2026 — 保护数字资产的完整方案"
 titleEn: "Ultimate Crypto Wallet Security Guide"
 date: "2024-08-28"
 category: "隐私安全"
 tags: ["Web3", "隐私安全", "加密货币"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
-excerpt: "如何保护数字资产？本文从硬件钱包选择、助记词备份、交易授权和钓鱼风险四个方面，整理一套适合新手执行的加密钱包安全方案。"
+excerpt: "如何保护数字资产安全？本文从硬件钱包选择（Ledger vs Trezor）、助记词备份策略（金属板存储）、交易授权风险识别和钓鱼网站防范等 4 个关键方面，整理一套适合新手执行的加密钱包安全方案，帮助你避开 99% 的常见安全风险，保护加密货币资产。"
 ---
 
 数字资产的安全，几乎完全取决于你如何保管私钥。这篇给出可落地的方案。

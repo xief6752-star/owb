@@ -1,11 +1,11 @@
 ---
-title: "机场配置教程：iOS到Mac全平台指南"
+title: "机场配置完整教程 2026 — iOS/Android/Windows/Mac 全平台指南"
 titleEn: "Complete Airport Setup Guide for All Platforms"
 date: "2026-09-16"
 category: "工具评测"
 tags: ["教程", "配置", "机场"]
 image: "https://images.unsplash.com/photo-1484807352052-23338990c6c6?w=1200&h=630&fit=crop"
-excerpt: "购买机场后不知道如何配置？本文覆盖 iOS、Android、Windows 和 Mac，从下载客户端、导入订阅到测试连接，按步骤完成基础设置。"
+excerpt: "购买机场后不知道如何配置？本文覆盖 iOS（Shadowrocket/Stash）、Android（Clash/v2rayNG）、Windows（Clash Verge/v2rayN）和 Mac（ClashX/Surge）全平台，从下载客户端、导入订阅链接、选择节点到测试连接，按步骤完成基础配置，附带常见问题排查（无法连接/节点超时），10 分钟快速上手科学上网。"
 author: "OutsideWeb"
 ---
 

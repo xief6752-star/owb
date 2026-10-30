@@ -1,11 +1,11 @@
 ---
-title: "如何测试机场速度 — Speedtest 使用教程与优化技巧"
+title: "如何科学测试机场速度 2026 — Speedtest 完整使用教程与 5 个优化技巧"
 titleEn: "How to Test Airport Speed - Complete Guide"
 date: "2025-09-10"
 category: "使用教程"
 tags: ["测速", "教程", "优化"]
 image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
-excerpt: "如何科学测试机场速度？Speedtest 怎么用？为什么不同时段测速结果差异巨大？这篇教程教你正确测速方法和 5 个优化技巧。"
+excerpt: "如何科学测试机场速度？Speedtest 怎么正确使用？为什么晚高峰和凌晨测速结果差异巨大？这篇完整教程从测速工具选择（Speedtest、Fast.com）、测试节点选择、测试时间段到结果解读，手把手教你正确测速方法，还包含 5 个实用优化技巧，帮你准确评估机场真实性能，避开虚假宣传。"
 author: "OutsideWeb"
 ---
 

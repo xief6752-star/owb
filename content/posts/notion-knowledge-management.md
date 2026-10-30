@@ -1,11 +1,11 @@
 ---
-title: "Notion知识管理搭建指南"
+title: "Notion 知识管理系统搭建完整指南 — 从零开始打造个人知识库"
 titleEn: "Complete Notion Knowledge Management Guide"
 date: "2025-06-12"
 category: "工具评测"
 tags: ["Notion", "知识管理", "生产力"]
 image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
-excerpt: "Notion 如何做知识管理？本文从页面结构、数据库、标签体系和工作流开始，教你搭建可持续维护的个人知识库，并提供实用模板思路。"
+excerpt: "Notion 如何做知识管理？本文从页面结构设计、数据库配置（Projects/Resources/Notes）、标签体系搭建（按主题/状态/优先级分类）和自动化工作流等 4 个方面，手把手教你搭建可持续维护的个人知识库，并提供可直接使用的实用模板思路，适合知识工作者和终身学习者。"
 author: "OutsideWeb"
 ---
 

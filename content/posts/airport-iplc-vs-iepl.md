@@ -1,11 +1,11 @@
 ---
-title: "IPLC vs IEPL：机场专线区别解析"
+title: "IPLC vs IEPL 专线区别深度解析 — 机场线路选购指南"
 titleEn: "IPLC vs IEPL: Complete Guide"
 date: "2026-09-07"
 category: "科普百科"
 tags: ["机场", "专线", "IPLC", "IEPL", "技术科普"]
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
-excerpt: "选机场时常见的 IPLC、IEPL、BGP 和 CN2 到底有什么区别？本文用通俗语言解释线路原理、速度、稳定性和适用场景，帮助你看懂机场线路。"
+excerpt: "选机场时常见的 IPLC、IEPL、BGP 和 CN2 到底有什么本质区别？本文用通俗语言解释四种线路的工作原理、速度差异（50Mbps vs 500Mbps+）、稳定性对比（丢包率/延迟）、晚高峰表现和适用场景（看视频/游戏/日常浏览），并给出不同预算下的选购建议，帮助你看懂机场线路参数，选对适合自己的线路类型。"
 author: "OutsideWeb"
 keywords: ["IPLC", "IEPL", "BGP", "CN2", "专线", "机场线路", "国际专线", "网络加速"]
 ---

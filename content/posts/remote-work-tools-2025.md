@@ -1,11 +1,11 @@
 ---
-title: "远程工作必备工具推荐 — 2025 年最佳工具组合"
+title: "远程工作必备工具推荐 2025 — 20+ 款工具打造高效协作环境"
 titleEn: "Essential Remote Work Tools 2025"
 date: "2025-05-25"
 category: "工具评测"
 tags: ["远程工作", "工具", "生产力"]
 image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
-excerpt: "远程工作需要哪些工具？本文推荐 20 多款沟通、协作、项目管理和时间管理工具，并按团队规模与使用场景整理组合方案，帮助你搭建高效工作环境。"
+excerpt: "远程工作需要哪些工具？本文推荐 20 多款沟通（Slack/Zoom）、协作（Miro/Figma）、项目管理（Asana/Linear）和时间管理（Toggl/RescueTime）工具，并按团队规模（个人/小团队/大企业）与使用场景整理最佳组合方案，帮助你搭建高效的远程工作环境。"
 author: "OutsideWeb"
 ---
 

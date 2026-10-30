@@ -1,11 +1,11 @@
 ---
-title: "VPN vs 机场 vs Tor — 三种科学上网方式完全对比"
+title: "VPN vs 机场 vs Tor 深度对比 2026 — 三种科学上网方式完全对比指南"
 titleEn: "VPN vs Airport vs Tor Complete Comparison"
 date: "2024-11-20"
 category: "科普百科"
 tags: ["VPN", "机场", "Tor", "对比"]
 image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
-excerpt: "VPN、机场、Tor 有什么区别？哪个更适合你？这篇文章从速度、隐私、价格、使用场景 4 个维度深度对比三种科学上网方式。"
+excerpt: "VPN、机场、Tor 有什么本质区别？哪个更适合你的使用场景？这篇文章从速度表现（延迟、带宽）、隐私保护级别、价格成本、使用场景（看视频/匿名浏览/日常使用）等 4 个核心维度深度对比三种科学上网方式，分析各自优缺点，帮助你根据实际需求做出正确选择。"
 author: "OutsideWeb"
 ---
 

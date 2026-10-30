@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT、Claude、Gemini对比指南"
+title: "ChatGPT vs Claude vs Gemini 深度对比指南 2026 — 三大 AI 助手全方位评测"
 titleEn: "ChatGPT vs Claude vs Gemini Comparison 2025"
 date: "2025-07-20"
 category: "AI 应用"
 tags: ["ChatGPT", "Claude", "Gemini", "对比"]
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
-excerpt: "ChatGPT、Claude 和 Gemini 哪个更适合你？本文从代码能力、写作质量、推理能力、上下文长度和价格等维度对比三款 AI 助手，帮助你按场景选择。"
+excerpt: "ChatGPT、Claude 和 Gemini 哪个更适合你？本文从代码能力（Python/JavaScript 实测）、写作质量、推理能力、上下文长度（GPT-4 128K vs Claude 200K vs Gemini 2M）、多模态支持和价格（$20/月 vs 免费版）等多个维度深度对比三款主流 AI 助手，帮助你按使用场景选择最合适的工具。"
 author: "OutsideWeb"
 ---
 

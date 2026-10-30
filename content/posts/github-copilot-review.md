@@ -1,12 +1,12 @@
 ---
-title: "GitHub Copilot 使用半年后的真实感受"
+title: "GitHub Copilot 使用半年后的真实感受 — 前端开发者的深度体验报告"
 titleEn: "GitHub Copilot After Six Months"
 date: "2024-09-04"
 category: "AI 应用"
 tags: ["AI", "编程工具", "效率"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200&q=80"
-excerpt: "作为前端开发者，使用 GitHub Copilot 半年后，代码补全、重构和调试效率提升了多少？本文结合真实工作流，分析它是否值得订阅。"
+excerpt: "作为前端开发者，使用 GitHub Copilot 半年后，代码补全、重构和调试效率提升了多少？本文结合真实工作流（React 组件开发、TypeScript 类型定义、单元测试编写），从准确率、上下文理解、学习曲线和性价比等维度分析 Copilot 的实际表现，给出是否值得 $10/月订阅的结论。"
 ---
 
 用了半年 GitHub Copilot，分享一些没有滤镜的真实感受。

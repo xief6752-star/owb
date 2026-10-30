@@ -1,11 +1,11 @@
 ---
-title: "AI 编程效率提升指南：程序员工作流"
+title: "AI 编程效率提升完全指南 — 程序员 AI 辅助工作流实战"
 titleEn: "How Programmers Can 10x Productivity with AI"
 date: "2025-04-10"
 category: "AI 应用"
 tags: ["编程", "AI", "效率"]
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
-excerpt: "AI 如何改变程序员的工作方式？本文从代码补全、方案设计、调试测试到代码审查，整理一套可落地的 AI 辅助编程工作流，帮助你提升开发效率。"
+excerpt: "AI 如何改变程序员的工作方式？本文从代码补全（Copilot/Cursor）、方案设计（Claude/ChatGPT）、调试测试（AI 辅助排错）到代码审查等 5 个开发环节，整理一套可立即落地的 AI 辅助编程工作流，配合实际案例（React 组件重构、API 设计），帮助你提升 50%+ 开发效率。"
 author: "OutsideWeb"
 keywords: ["AI编程", "代码补全", "ChatGPT", "Cursor", "GitHub Copilot", "程序员效率", "AI工具"]
 ---

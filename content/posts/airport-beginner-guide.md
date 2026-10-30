@@ -1,11 +1,11 @@
 ---
-title: "2026机场选购指南：新手避坑攻略"
+title: "2026 机场选购完全指南 — 新手避坑攻略与选购技巧"
 titleEn: "Airport Selection Guide for Beginners 2026"
 date: "2026-09-16"
 category: "机场评测"
 tags: ["新手指南", "机场", "选购"]
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
-excerpt: "第一次选择机场，不知道 IEPL、IPLC、SS 有什么区别？本文从预算、线路、速度、稳定性和跑路风险出发，帮助新手选到适合自己的机场服务。"
+excerpt: "第一次选择机场，不知道 IEPL、IPLC、SS、Trojan 有什么区别？本文从预算规划（月付 vs 年付）、线路类型选择、速度与稳定性评估、流媒体解锁需求和跑路风险识别等 5 个维度出发，手把手教新手如何选到适合自己的机场服务，避开常见陷阱，降低试错成本。"
 author: "OutsideWeb"
 keywords: ["机场推荐", "科学上网", "翻墙", "VPN", "IEPL", "IPLC", "机场选购", "新手指南"]
 ---

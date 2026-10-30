@@ -5,7 +5,7 @@ date: "2026-09-22"
 category: "机场评测"
 tags: ["鲲鹏加速", "评测", "性价比", "1元试用"]
 image: "https://img-s1.fastboostcdn.com/2026/09/26/5a34dace2ce21231030cbbede9b83a05.md.png"
-excerpt: "鲲鹏加速 2026 年深度评测：1元尝鲜体验套餐极低试错成本，12元/月99GB主力套餐每天仅4毛钱，全站1.0倍率无暗扣无文字游戏，支持 ChatGPT、Netflix、TikTok 等主流平台解锁。"
+excerpt: "鲲鹏加速 2026 年深度评测：1元尝鲜体验套餐极低试错成本，12元/月 99GB 主力套餐每天仅4毛钱，全站 1.0 倍率无暗扣无文字游戏真实流量保障。晚高峰速度 450-550 Mbps，稳定性 98.8%，支持 ChatGPT、Claude AI、Netflix、Disney+、TikTok 等主流平台解锁，特别适合游戏玩家和追求性价比的用户。"
 author: "OutsideWeb"
 ---
 

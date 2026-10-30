@@ -1,11 +1,11 @@
 ---
-title: "IEPL、IPLC、SS线路对比指南"
+title: "IEPL、IPLC、SS 线路对比完全指南 — 机场专线选购避坑指南"
 titleEn: "IEPL vs IPLC vs Shadowsocks Line Comparison"
 date: "2026-09-16"
 category: "机场评测"
 tags: ["IEPL", "IPLC", "专线", "对比"]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop"
-excerpt: "IEPL、IPLC、SS 到底有什么区别？为什么 IEPL 比普通线路贵这么多？这篇文章用最简单的语言解释三种线路的原理、速度、稳定性和价格差异，帮你选对线路。"
+excerpt: "IEPL、IPLC、SS 到底有什么区别？为什么 IEPL 专线比普通 SS 线路贵这么多？这篇文章用最简单的语言解释三种线路的原理、速度差异（50Mbps vs 500Mbps）、稳定性对比、晚高峰表现和价格差异（10元 vs 50元/月），并给出不同预算和使用场景下的选购建议，帮你选对机场线路。"
 author: "OutsideWeb"
 ---
 

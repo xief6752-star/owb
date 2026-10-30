@@ -1,12 +1,12 @@
 ---
-title: "YouTube Premium 替代方案完全指南"
+title: "YouTube Premium 替代方案完全指南 2026 — 去广告、离线播放的合法选择"
 titleEn: "YouTube Premium Alternatives Guide"
 date: "2024-09-02"
 category: "工具评测"
 tags: ["流媒体", "省钱攻略", "工具"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
-excerpt: "不想订阅 YouTube Premium？本文整理多个合法替代方案，比较广告体验、离线播放、音乐功能和价格，帮助你找到适合自己的观看方式。"
+excerpt: "不想订阅 YouTube Premium（$11.99/月）？本文整理多个合法替代方案（浏览器插件/第三方客户端），从广告过滤体验、离线播放功能、YouTube Music 替代、画中画支持和价格成本等 5 个方面进行对比，帮助你找到适合自己的 YouTube 观看方式，省钱同时不牺牲体验。"
 ---
 
 YouTube Premium 在国内订阅不便且偏贵，这里分享几个实用替代方案。

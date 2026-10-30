@@ -1,11 +1,11 @@
 ---
-title: "鲲鹏加速机场评测：游戏玩家首选的低延迟专线"
+title: "鲲鹏加速机场深度评测 2026 — 游戏玩家首选的低延迟 IPLC 专线"
 titleEn: "KunPeng Accelerator Review: Best for Gaming"
 date: "2026-10-13"
 category: "机场评测"
 tags: ["鲲鹏加速", "游戏加速", "低延迟", "IPLC专线", "机场评测"]
 image: "https://picsum.photos/seed/gaming-speed/1200/630"
-excerpt: "鲲鹏加速专注游戏加速和低延迟场景，采用 IPLC 专线 + 游戏优化节点，延迟低至个位数。本文从游戏体验、速度、稳定性等角度评测这家专业游戏加速机场。"
+excerpt: "鲲鹏加速专注游戏加速和低延迟场景，采用 IPLC 专线 + 游戏优化节点，延迟低至个位数（8-15ms），特别适合玩 PUBG、APEX、LOL 等网游。晚高峰速度稳定，支持 ChatGPT、Netflix 等平台解锁。本文从游戏体验（延迟测试/丢包率）、速度表现、稳定性等角度深度评测这家专业游戏加速机场。"
 author: "OutsideWeb"
 keywords: ["鲲鹏加速", "游戏加速器", "低延迟", "IPLC专线", "游戏机场", "电竞加速"]
 ---

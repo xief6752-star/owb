@@ -1,11 +1,11 @@
 ---
-title: "2025 年隐私保护工具推荐 — 保护你的数字隐私"
+title: "2025 年隐私保护工具推荐完全指南 — 15 个工具保护你的数字隐私"
 titleEn: "Privacy Tools Recommendations 2025"
 date: "2025-04-22"
 category: "隐私安全"
 tags: ["隐私", "安全", "工具"]
 image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
-excerpt: "如何保护数字隐私？本文推荐 15 个隐私工具，覆盖浏览器、搜索引擎、邮箱、即时通信和支付场景，并说明各工具的适用人群与主要取舍。"
+excerpt: "如何保护数字隐私？本文推荐 15 个隐私保护工具，覆盖浏览器（Firefox/Brave）、搜索引擎（DuckDuckGo）、邮箱（ProtonMail/Tutanota）、即时通信（Signal/Telegram）和支付（Monero/隐私币）等 5 大场景，并说明各工具的适用人群、隐私级别与主要取舍，帮助你构建完整的隐私防护体系。"
 author: "OutsideWeb"
 ---
 

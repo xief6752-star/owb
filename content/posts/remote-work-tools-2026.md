@@ -1,11 +1,11 @@
 ---
-title: "2026 远程工作工具推荐：打造高效数字游民工作流"
+title: "2026 远程工作工具推荐完全指南 — 打造高效数字游民工作流的 20+ 款必备工具"
 titleEn: "Best Remote Work Tools for Digital Nomads in 2026"
 date: "2026-10-12"
 category: "数字游民"
 tags: ["远程工作", "生产力工具", "数字游民", "效率提升"]
 image: "https://picsum.photos/seed/remote-work/1200/630"
-excerpt: "从沟通协作到项目管理，从时间追踪到文档共享，这份清单整理了 2026 年远程工作者必备的 20+ 款工具，帮助你打造无缝的异地办公体验。"
+excerpt: "从沟通协作（Slack、Discord）到项目管理（Notion、Asana），从时间追踪（Toggl）到文档共享（Google Workspace），这份清单整理了 2026 年远程工作者必备的 20+ 款工具，涵盖协作、效率、安全等各个方面，帮助你打造无缝的异地办公体验，提升团队协作效率。"
 author: "OutsideWeb"
 keywords: ["远程工作工具", "数字游民", "在线协作", "生产力", "异地办公"]
 ---

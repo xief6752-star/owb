@@ -1,11 +1,11 @@
 ---
-title: "云图机场评测：高性价比 IEPL 专线推荐"
+title: "云图机场深度评测 2026 — 全 IEPL 专线高性价比之选，速度与稳定性兼顾"
 titleEn: "YunTu Airport Review: Best Value IEPL Service"
 date: "2026-10-13"
 category: "机场评测"
 tags: ["云图", "机场评测", "IEPL", "专线", "性价比"]
 image: "https://picsum.photos/seed/cloud-network/1200/630"
-excerpt: "云图机场采用 IEPL 专线 + BGP 中转优化，稳定运营超过 3 年，以高性价比和优质服务在用户中口碑良好。本文从速度、稳定性、流媒体解锁等维度全面评测云图。"
+excerpt: "云图机场采用全 IEPL 专线架构，稳定运营超过 3 年，50+ 优质节点覆盖全球，晚高峰速度 850-920 Mbps，稳定性 99.9%，支持 Netflix、Disney+、ChatGPT 等全平台解锁。本文从速度测试、稳定性监控、流媒体解锁能力、价格性价比等维度深度评测云图机场，帮您判断是否适合作为主力机场。"
 author: "OutsideWeb"
 keywords: ["云图机场", "IEPL专线", "机场推荐", "高性价比机场", "流媒体解锁", "云图评测"]
 ---

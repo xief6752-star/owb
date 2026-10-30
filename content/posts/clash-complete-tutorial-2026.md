@@ -1,11 +1,11 @@
 ---
-title: "Clash 完整使用教程：从零开始的科学上网指南 2026"
+title: "Clash 完整使用教程 2026 — 全平台科学上网客户端配置指南（Windows/Mac/iOS/Android）"
 titleEn: "Complete Clash Tutorial: Getting Started Guide 2026"
 date: "2026-10-13"
 category: "使用教程"
 tags: ["Clash", "教程", "新手指南", "配置教程"]
 image: "https://picsum.photos/seed/clash-tutorial/1200/630"
-excerpt: "Clash 是目前最流行的科学上网客户端之一。本教程从零开始，手把手教您如何下载、安装、配置和使用 Clash，包含 Windows、macOS、iOS、Android 全平台详细步骤。"
+excerpt: "Clash 是目前最流行的科学上网客户端之一，支持 SS/SSR/Vmess/Trojan 等多种协议。本教程从零开始，手把手教您如何下载、安装、配置和使用 Clash，包含 Windows（Clash for Windows/Clash Verge）、macOS（ClashX）、iOS（Stash）、Android（Clash for Android）全平台详细步骤，附带规则配置、分流设置、故障排查等进阶技巧。"
 author: "OutsideWeb"
 keywords: ["Clash教程", "Clash使用教程", "科学上网教程", "翻墙教程", "Clash配置", "机场使用教程"]
 ---

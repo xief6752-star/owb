@@ -1,11 +1,11 @@
 ---
-title: "葡萄牙 D7 签证申请指南 — 数字游民的欧洲移居之路"
+title: "葡萄牙 D7 签证申请完整指南 2026 — 数字游民移居欧洲的最佳选择"
 titleEn: "Portugal D7 Visa Guide for Digital Nomads"
 date: "2025-03-28"
 category: "数字游民"
 tags: ["葡萄牙", "签证", "移居", "欧洲"]
 image: "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1200&h=630&fit=crop"
-excerpt: "葡萄牙 D7 签证是数字游民移居欧洲的热门选择。这篇完整指南涵盖申请条件、流程、成本、生活指南，帮你顺利获得 D7 签证。"
+excerpt: "葡萄牙 D7 签证是数字游民移居欧洲的热门选择，门槛相对较低且性价比高。这篇完整指南涵盖申请条件（被动收入要求）、材料清单、办理流程、时间线、成本预算、常见问题解答和葡萄牙生活指南，帮你顺利获得 D7 签证开启欧洲生活。"
 author: "OutsideWeb"
 ---
 

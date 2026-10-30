@@ -1,11 +1,11 @@
 ---
-title: "Android 科学上网完整教程 2026：从入门到进阶"
+title: "Android 科学上网完整教程 2026 — Clash、V2rayNG 等主流客户端配置指南"
 titleEn: "Complete Android VPN Setup Guide 2026"
 date: "2026-10-13"
 category: "使用教程"
 tags: ["Android", "安卓", "翻墙教程", "Clash", "V2Ray"]
 image: "https://picsum.photos/seed/android-vpn-guide/1200/630"
-excerpt: "Android 安卓手机科学上网完整教程，涵盖 Clash for Android、V2rayNG、SagerNet 等主流客户端的下载、安装、配置全流程。简单易懂，适合新手小白。"
+excerpt: "Android 安卓手机科学上网完整教程，涵盖 Clash for Android、Clash Meta、V2rayNG、SagerNet 等主流客户端的下载安装、订阅导入、节点选择、代理模式配置、故障排查等全流程详细步骤。附带应用分流、自动切换、电池优化等进阶技巧，简单易懂，适合新手小白从零开始配置。"
 author: "OutsideWeb"
 keywords: ["Android翻墙", "安卓科学上网", "Clash教程", "V2rayNG教程", "安卓VPN", "手机翻墙"]
 ---

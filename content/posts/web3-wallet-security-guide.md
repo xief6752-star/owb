@@ -1,11 +1,11 @@
 ---
-title: "Web3 钱包安全完全指南 — 保护你的加密资产"
+title: "Web3 钱包安全完全指南 2026 — 保护加密资产的 10 个关键措施"
 titleEn: "Complete Web3 Wallet Security Guide"
 date: "2025-07-15"
 category: "隐私安全"
 tags: ["Web3", "钱包", "安全", "加密货币"]
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=630&fit=crop"
-excerpt: "Web3 钱包被盗事件频发，如何保护你的加密资产？这篇完整指南涵盖钱包选择、助记词管理、常见骗局识别，帮你避开 99% 的安全风险。"
+excerpt: "Web3 钱包被盗事件频发，如何保护你的加密资产？这篇完整指南涵盖钱包类型选择（硬件钱包 vs 热钱包）、助记词管理（冷存储策略）、授权风险识别、常见骗局识别（假空投、钓鱼网站、恶意合约）等 10 个关键安全措施，帮你避开 99% 的安全风险，保护 ETH、BTC 等加密资产。"
 author: "OutsideWeb"
 ---
 

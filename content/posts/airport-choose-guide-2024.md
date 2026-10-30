@@ -1,11 +1,11 @@
 ---
-title: "2026机场选购避坑指南"
+title: "2026 机场选购避坑指南 — 新手必看的 8 个关键指标"
 titleEn: "Complete Guide to Choosing Airport Services"
 date: "2026-09-09"
 category: "科普百科"
 tags: ["机场", "选购指南", "避坑"]
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-excerpt: "买机场前需要看哪些指标？本文从预算、线路类型、速度测试、退款规则和跑路信号几个方面梳理选购方法，帮助新手减少试错成本。"
+excerpt: "买机场前需要看哪些指标？本文从预算规划（月付 vs 年付）、线路类型选择（IEPL vs IPLC vs BGP）、速度测试方法（晚高峰测速）、退款规则确认和跑路信号识别（5 大预警）等 8 个关键方面梳理选购方法，帮助新手避开常见陷阱，减少试错成本，找到适合自己的机场服务。"
 author: "OutsideWeb"
 keywords: ["机场选购", "翻墙避坑", "机场评测", "线路类型", "速度测试", "机场推荐"]
 ---

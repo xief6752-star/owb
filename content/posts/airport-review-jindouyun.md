@@ -1,12 +1,12 @@
 ---
-title: "筋斗云机场评测：稳定运营的中端专线选择"
+title: "筋斗云机场深度评测 2026 — 稳定运营的中端 IEPL 专线选择"
 titleEn: "JinDouYun Airport Review"
 date: "2026-09-16"
 category: "机场评测"
 tags: ["机场", "评测", "专线", "稳定"]
 author: "OutsideWeb"
 image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
-excerpt: "筋斗云运营稳定，采用 IEPL 专线 + BGP 优化，节点质量优秀，适合追求稳定体验的中端用户。"
+excerpt: "筋斗云运营稳定超过 2 年，采用 IEPL 专线 + BGP 优化混合架构，32 个节点覆盖全球主要地区，晚高峰速度 640-700 Mbps，稳定性 99.7%。节点质量优秀，支持 Netflix、Disney+、ChatGPT 等主流平台全解锁，价格 ¥35-168/月，适合追求稳定体验的中端用户。"
 ---
 
 筋斗云是一家运营稳定的中端专线机场，采用 IEPL 专线和 BGP 三网优化线路，运营时间超过 2 年，用户口碑较好。这篇评测基于我们近一个月的实际使用，全面测试速度、稳定性和流媒体解锁能力。

@@ -1,11 +1,11 @@
 ---
-title: "Midjourney 提示词完全指南 — 从入门到精通"
-titleEn: "Complete Midjourney Prompt Guide"
+title: "Midjourney 提示词完全指南 2026 — 从基础语法到高级技巧，生成专业级 AI 图片"
+titleEn: "Complete Midjourney Prompt Guide 2026"
 date: "2025-06-08"
 category: "AI 应用"
 tags: ["Midjourney", "AI绘画", "提示词"]
 image: "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=1200&h=630&fit=crop"
-excerpt: "如何写出高质量的 Midjourney 提示词？这篇完整指南涵盖基础语法、参数详解、风格控制、10 个实用技巧，帮你生成理想的 AI 图片。"
+excerpt: "如何写出高质量的 Midjourney 提示词？这篇完整指南涵盖基础语法、参数详解（--ar、--v、--chaos）、风格控制、光影设置、构图技巧等 10+ 个实用方法，帮你从零开始生成专业级 AI 图片，适合设计师、创作者和 AI 绘画爱好者。"
 author: "OutsideWeb"
 ---
 
