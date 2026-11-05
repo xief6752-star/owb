@@ -72,6 +72,64 @@ export default function JiaochengPage() {
           </div>
         </div>
 
+        {/* 新手快速入门 */}
+        <div className="mb-12 rounded-lg border border-line bg-gradient-to-br from-blue-50 to-transparent p-8">
+          <div className="mb-6 flex items-center gap-3">
+            <span className="text-2xl">🚀</span>
+            <h2 className="text-[1.5rem] font-semibold text-ink">新手快速入门</h2>
+          </div>
+          <div className="grid gap-4 md:grid-cols-3">
+            <a href="/post/ios-vpn-setup-guide-2026" className="group rounded-lg border border-line bg-white p-5 transition-all hover:border-blue-500 hover:shadow-md">
+              <div className="mb-2 flex items-center gap-2">
+                <span className="rounded bg-blue-100 px-2 py-1 text-[11px] font-medium text-blue-700">iOS</span>
+              </div>
+              <h3 className="text-[15px] font-semibold text-ink group-hover:text-blue-600">
+                iPhone/iPad 翻墙教程
+              </h3>
+              <p className="mt-2 text-[12px] text-ink-soft">
+                美区 Apple ID 注册、Shadowrocket 购买配置
+              </p>
+            </a>
+            <a href="/post/android-vpn-setup-guide-2026" className="group rounded-lg border border-line bg-white p-5 transition-all hover:border-blue-500 hover:shadow-md">
+              <div className="mb-2 flex items-center gap-2">
+                <span className="rounded bg-green-100 px-2 py-1 text-[11px] font-medium text-green-700">Android</span>
+              </div>
+              <h3 className="text-[15px] font-semibold text-ink group-hover:text-blue-600">
+                安卓手机科学上网
+              </h3>
+              <p className="mt-2 text-[12px] text-ink-soft">
+                Clash for Android 完整配置指南
+              </p>
+            </a>
+            <a href="/post/clash-complete-tutorial-2026" className="group rounded-lg border border-line bg-white p-5 transition-all hover:border-blue-500 hover:shadow-md">
+              <div className="mb-2 flex items-center gap-2">
+                <span className="rounded bg-purple-100 px-2 py-1 text-[11px] font-medium text-purple-700">全平台</span>
+              </div>
+              <h3 className="text-[15px] font-semibold text-ink group-hover:text-blue-600">
+                Clash 完整使用教程
+              </h3>
+              <p className="mt-2 text-[12px] text-ink-soft">
+                Windows/Mac/iOS/Android 全平台指南
+              </p>
+            </a>
+          </div>
+        </div>
+
+        {/* 配套机场推荐 */}
+        <div className="mb-12 rounded-lg border border-accent/30 bg-accent/5 p-6">
+          <div className="flex items-start gap-4">
+            <span className="text-3xl">💡</span>
+            <div className="flex-1">
+              <h3 className="text-[16px] font-semibold text-ink">
+                配套机场推荐
+              </h3>
+              <p className="mt-2 text-[13px] text-ink-soft">
+                教程配合优质机场使用效果更佳。查看我们的 <a href="/post/top5-airports-comparison-2026" className="text-accent underline hover:text-accent/80">Top5 机场横评</a> 或 <a href="/post/budget-airports-recommendation-2026" className="text-accent underline hover:text-accent/80">便宜机场推荐</a>，找到适合你的科学上网服务。
+              </p>
+            </div>
+          </div>
+        </div>
+
         <h2 className="mb-6 text-[1.5rem] font-semibold text-ink">
           全部教程文章 ({tutorialPosts.length})
         </h2>
