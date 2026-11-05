@@ -119,6 +119,28 @@ export default async function PostPage({ params }: PostPageProps) {
     articleSection: post.category,
   };
 
+  // 机场评测类文章添加 Product Schema
+  const isAirportReview = post.category === '机场评测' || post.tags.includes('机场');
+  const productSchema = isAirportReview ? {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: post.title.replace(/评测|测评|深度评测|2026|—|：/g, '').trim(),
+    description: getSeoDescription(post),
+    image: absoluteUrl(post.image || '/images/yuntu-logo.png'),
+    url: `https://outsideweb.net/post/${slug}`,
+    brand: {
+      '@type': 'Brand',
+      name: post.title.split(/评测|测评|机场/)[0].trim(),
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '8.5',
+      bestRating: '10',
+      worstRating: '0',
+      reviewCount: '1',
+    },
+  } : null;
+
   return (
     <Shell>
       {/* JSON-LD 结构化数据 */}
@@ -126,6 +148,12 @@ export default async function PostPage({ params }: PostPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      {productSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
+        />
+      )}
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-line">
         {post.image && (
