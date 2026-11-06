@@ -160,7 +160,7 @@ export default async function PostPage({ params }: PostPageProps) {
           <div className="absolute inset-0">
             <Image
               src={post.image}
-              alt=""
+              alt={`${post.title} - 文章配图`}
               fill
               priority
               sizes="100vw"
